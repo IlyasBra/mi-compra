@@ -1,0 +1,10 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+
+# Nada que compilar: este proyecto es HTML/CSS/JS puro.
