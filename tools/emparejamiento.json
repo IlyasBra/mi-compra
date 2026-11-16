@@ -1,0 +1,4025 @@
+{
+ "Dorada": {
+  "mercadona": "Dorada sin limpiar",
+  "seccion": "Marisco y pescado",
+  "categoria": "Dorada",
+  "foto": "https://prod-mercadona.imgix.net/images/5a648f8a69f2dd2d87d7049b8e604499.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso curado (oveja)": {
+  "mercadona": "Queso curado DOP manchego de oveja Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso curado",
+  "foto": "https://prod-mercadona.imgix.net/images/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=300&w=300",
+  "score": 1.2,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso semicurado": {
+  "mercadona": "Queso semicurado mezcla Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso semicurado",
+  "foto": "https://prod-mercadona.imgix.net/images/226430ffd0927fc4ab3c0f93831b5fe6.jpeg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso tierno": {
+  "mercadona": "Queso tierno mezcla Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso tierno",
+  "foto": "https://prod-mercadona.imgix.net/images/9379089121c56177044af4e3763129be.jpeg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso manchego": {
+  "mercadona": "Queso curado DOP manchego de oveja Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso curado",
+  "foto": "https://prod-mercadona.imgix.net/images/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso fresco": {
+  "mercadona": "Queso fresco de cabra Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso fresco",
+  "foto": "https://prod-mercadona.imgix.net/images/2578bc6a70f9d8740cc291e87927680b.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso de Burgos": {
+  "mercadona": "Queso fresco Burgos natural Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso fresco",
+  "foto": "https://prod-mercadona.imgix.net/images/f720ac03cd3735edc5ec4647c7da94ec.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Rulo de cabra": {
+  "mercadona": "Queso rulo de cabra Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso especialidades",
+  "foto": "https://prod-mercadona.imgix.net/images/5e1814a3522c87ad5e0a3d748278037c.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso brie": {
+  "mercadona": "Queso brie marcillat de vaca Plaisir de Roy",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso especialidades",
+  "foto": "https://prod-mercadona.imgix.net/images/c2446828dd55519f7d18b21249e5e38c.jpeg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso camembert": {
+  "mercadona": "Queso camembert de vaca Marcillat",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso especialidades",
+  "foto": "https://prod-mercadona.imgix.net/images/f0a656c1468da1084f89081ef070c1bd.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Queso azul": {
+  "mercadona": "Queso azul de vaca Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso especialidades",
+  "foto": "https://prod-mercadona.imgix.net/images/b4c1536ca2733eea0acbaca8ac4f6810.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso emmental": {
+  "mercadona": "Queso emmental de vaca Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso tierno",
+  "foto": "https://prod-mercadona.imgix.net/images/59f451f75ce0ef7b7d82bc610d115ad0.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso gruyère": {
+  "mercadona": "Queso rallado 4 quesos Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso rallado",
+  "foto": "https://prod-mercadona.imgix.net/images/9bdb83693cb107ef8e90da30dea2e26e.jpg?fit=crop&h=300&w=300",
+  "score": 0.85,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso cheddar": {
+  "mercadona": "Queso curado cheddar Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso curado",
+  "foto": "https://prod-mercadona.imgix.net/images/b8ada196b5642778f3b5ad515ebb780e.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Mozzarella fresca": {
+  "mercadona": "Mozzarella fresca de vaca Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso fresco",
+  "foto": "https://prod-mercadona.imgix.net/images/82991bcf404ead6164e1b3b4ad79eeea.jpeg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Burrata": {
+  "mercadona": "Burrata fresca Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso fresco",
+  "foto": "https://prod-mercadona.imgix.net/images/9b525ff0441a89b64ba570dd20f08f70.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso feta": {
+  "mercadona": "Queso feta mezcla Hacendado en dados",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso fresco",
+  "foto": "https://prod-mercadona.imgix.net/images/32a48eaa259c9728b5f4e60333eb2fea.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso rallado": {
+  "mercadona": "Queso rallado 4 quesos Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso rallado",
+  "foto": "https://prod-mercadona.imgix.net/images/9bdb83693cb107ef8e90da30dea2e26e.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso en lonchas": {
+  "mercadona": "Queso lonchas de cabra Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso lonchas",
+  "foto": "https://prod-mercadona.imgix.net/images/83876b302b8f4bafde5749db67fdfc0b.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso crema para untar": {
+  "mercadona": "Queso untar suave de vaca Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso untable",
+  "foto": "https://prod-mercadona.imgix.net/images/18901ca537c8de2c4c77f69baf4ee430.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Requesón": {
+  "mercadona": "Requesón mezcla Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso fresco",
+  "foto": "https://prod-mercadona.imgix.net/images/a0caeed9828e9be37906b74458bc830c.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Queso cottage": {
+  "mercadona": "Queso cottage Valblu",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso fresco",
+  "foto": "https://prod-mercadona.imgix.net/images/8614acb743ea152faf90ee68439731b5.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Quesitos": {
+  "mercadona": "Queso en porciones Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso en porciones",
+  "foto": "https://prod-mercadona.imgix.net/images/62e21e9aeaf9f20b7c81fc2ff229c976.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Parmesano rallado": {
+  "mercadona": "Queso rallado 4 quesos Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso rallado",
+  "foto": "https://prod-mercadona.imgix.net/images/9bdb83693cb107ef8e90da30dea2e26e.jpg?fit=crop&h=300&w=300",
+  "score": 0.85,
+  "revisar": false,
+  "manual": false
+ },
+ "Leche entera": {
+  "mercadona": "Leche entera Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Leche entera",
+  "foto": "https://prod-mercadona.imgix.net/images/e471e628a91aef1a7d6473da2cb904c6.jpeg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Leche semidesnatada": {
+  "mercadona": "Leche semidesnatada Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Leche semidesnatada",
+  "foto": "https://prod-mercadona.imgix.net/images/c15010ddd0e6fc881e5ef94446d43bef.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Leche desnatada": {
+  "mercadona": "Leche desnatada Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Leche desnatada",
+  "foto": "https://prod-mercadona.imgix.net/images/abc4cb0349cf8033da81c6045538345b.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Leche sin lactosa": {
+  "mercadona": "Leche semidesnatada sin lactosa Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Leche semidesnatada",
+  "foto": "https://prod-mercadona.imgix.net/images/6b02e742d27be2ee2db0994bc431fe99.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Bebida de almendras": {
+  "mercadona": "Bebida de almendras 0% azúcar Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Bebidas vegetales",
+  "foto": "https://prod-mercadona.imgix.net/images/7f5b830fb950ac1a16d1dfed7f4a85b4.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Bebida de avena": {
+  "mercadona": "Bebida de avena Hacendado 0% azúcar",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Bebidas vegetales",
+  "foto": "https://prod-mercadona.imgix.net/images/d37ca9bd4e181ab7c222ab18a0d579d4.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Bebida de soja": {
+  "mercadona": "Bebida de soja 0% azúcar Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Bebidas vegetales",
+  "foto": "https://prod-mercadona.imgix.net/images/78bb6c24a5d530445f7f3fbac945c0f5.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Nata para cocinar": {
+  "mercadona": "Nata ligera para cocinar Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Nata",
+  "foto": "https://prod-mercadona.imgix.net/images/a6cdade0714ab23e58433866c28b32a5.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Nata para montar": {
+  "mercadona": "Nata para montar Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Nata",
+  "foto": "https://prod-mercadona.imgix.net/images/016b6b32c05e1f972273bf8dbf2b2f8a.jpeg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Nata en spray": {
+  "mercadona": "Nata montada azucarada Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Nata",
+  "foto": "https://prod-mercadona.imgix.net/images/892e7e611df692289b064ebcf2a8c806.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Leche condensada": {
+  "mercadona": "Leche condensada Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Leche condensada y otros",
+  "foto": "https://prod-mercadona.imgix.net/images/b6c7821e45659190d4af302c40508d34.jpeg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Leche evaporada": {
+  "mercadona": "Leche evaporada Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Nata",
+  "foto": "https://prod-mercadona.imgix.net/images/786f650d3ee412906c31b12eff57d005.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Yogur natural": {
+  "mercadona": "Yogur natural Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures naturales",
+  "foto": "https://prod-mercadona.imgix.net/images/0689561ce98dba5c0b3ad43e69be0f5f.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Yogur natural azucarado": {
+  "mercadona": "Yogur natural con azúcar de caña Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures naturales",
+  "foto": "https://prod-mercadona.imgix.net/images/ead686f6dd51a57d3e03cdde744912d0.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Yogur desnatado": {
+  "mercadona": "Yogur natural Hacendado 0% MG 0% azúcares añadidos",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures desnatados",
+  "foto": "https://prod-mercadona.imgix.net/images/099ff343424be9697224fa076e7b2c87.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Yogur griego": {
+  "mercadona": "Yogur griego natural Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures griegos",
+  "foto": "https://prod-mercadona.imgix.net/images/cfb87bb05a20c3f9a20da9e3c7375172.jpg?fit=crop&h=300&w=300",
+  "score": 1.205,
+  "revisar": false,
+  "manual": false
+ },
+ "Yogur de sabores": {
+  "mercadona": "Yogur sabores Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures de sabores",
+  "foto": "https://prod-mercadona.imgix.net/images/85b23a9a032693961d03270115cbefa3.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Yogur líquido": {
+  "mercadona": "Yogur líquido de fresa Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures líquidos",
+  "foto": "https://prod-mercadona.imgix.net/images/5246df6b92d37bf788da3733179e8d3a.jpeg?fit=crop&h=300&w=300",
+  "score": 1.205,
+  "revisar": false,
+  "manual": false
+ },
+ "Yogur con frutas": {
+  "mercadona": "Yogur con frutas Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures de sabores",
+  "foto": "https://prod-mercadona.imgix.net/images/04acf20f1191eb74c8a2e7c15c327e94.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Kéfir": {
+  "mercadona": "Bebida Kéfir natural Hacendado 0% MG",
+  "seccion": "Postres y yogures",
+  "categoria": "Colesterol y otros",
+  "foto": "https://prod-mercadona.imgix.net/images/700d23ea10748add9c31d5cfdb308633.jpg?fit=crop&h=300&w=300",
+  "score": 0.965,
+  "revisar": false,
+  "manual": false
+ },
+ "Skyr": {
+  "mercadona": "Yogur natural Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Yogures naturales",
+  "foto": "https://prod-mercadona.imgix.net/images/0689561ce98dba5c0b3ad43e69be0f5f.jpg?fit=crop&h=300&w=300",
+  "score": 1.125,
+  "revisar": false,
+  "manual": false
+ },
+ "Mantequilla": {
+  "mercadona": "Mantequilla con sal Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Mantequilla",
+  "foto": "https://prod-mercadona.imgix.net/images/4c4ad20a9ebac8f92af9581840223d6f.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Margarina": {
+  "mercadona": "Margarina Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Margarina",
+  "foto": "https://prod-mercadona.imgix.net/images/4b4e9f8bd089cca2a22395cebdd87a13.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Cuajada": {
+  "mercadona": "Cuajada Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Otros postres",
+  "foto": "https://prod-mercadona.imgix.net/images/e3722dcc2d1343919a6609992c62419b.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Flan": {
+  "mercadona": "Flan de huevo Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Flan",
+  "foto": "https://prod-mercadona.imgix.net/images/4e579e9bc37d6ebb3f8406760770f297.jpg?fit=crop&h=300&w=300",
+  "score": 1.125,
+  "revisar": false,
+  "manual": false
+ },
+ "Natillas": {
+  "mercadona": "Natillas sabor vainilla Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Natillas",
+  "foto": "https://prod-mercadona.imgix.net/images/2427c668b094177e9c8d0bfbd955f18e.jpg?fit=crop&h=300&w=300",
+  "score": 1.025,
+  "revisar": false,
+  "manual": false
+ },
+ "Arroz con leche": {
+  "mercadona": "Arroz con leche Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Otros postres",
+  "foto": "https://prod-mercadona.imgix.net/images/ad0433518327b7e4e1a4305c8710d524.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Batido de chocolate": {
+  "mercadona": "Batido de chocolate Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Batidos",
+  "foto": "https://prod-mercadona.imgix.net/images/3cea02fc6511b13003b8cd6ed8fc1f1e.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Batido de fresa": {
+  "mercadona": "Batido sabor fresa Hacendado",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Batidos",
+  "foto": "https://prod-mercadona.imgix.net/images/26afc175f1198a7e222963bbc727fd96.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Mousse de chocolate": {
+  "mercadona": "Mousse de chocolate Hacendado",
+  "seccion": "Postres y yogures",
+  "categoria": "Otros postres",
+  "foto": "https://prod-mercadona.imgix.net/images/e651c51afb3809aa73aedde74df950cd.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Huevos": {
+  "mercadona": "Huevos",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Huevos",
+  "foto": "https://prod-mercadona.imgix.net/images/3a0b8ec917c50794e9aed65bbfea018b.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Huevos camperos": {
+  "mercadona": "Huevos de gallinas camperas",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Huevos",
+  "foto": "https://prod-mercadona.imgix.net/images/50933500ef69e4c4cc91733c48e4e909.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Huevos ecológicos": {
+  "mercadona": "Huevos de gallinas camperas",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Huevos",
+  "foto": "https://prod-mercadona.imgix.net/images/50933500ef69e4c4cc91733c48e4e909.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Huevos XL": {
+  "mercadona": "Huevos super grandes XL",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Huevos",
+  "foto": "https://prod-mercadona.imgix.net/images/5bad6ba1d83593e621cdee275de8fd77.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Clara de huevo pasteurizada": {
+  "mercadona": "Claras de huevo líquidas pasteurizadas",
+  "seccion": "Huevos, leche y mantequilla",
+  "categoria": "Huevos",
+  "foto": "https://prod-mercadona.imgix.net/images/cde7e603fa71c589abe8e10279bd36ab.jpeg?fit=crop&h=300&w=300",
+  "score": 1.264,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan de barra (baguette)": {
+  "mercadona": "3 Barras de pan",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Barra de pan",
+  "foto": "https://prod-mercadona.imgix.net/images/b2885ac23e9ad6ffc406882e24291809.jpg?fit=crop&h=300&w=300",
+  "score": 1.097,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan de hogaza / payés": {
+  "mercadona": "Hogaza 100% natural Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Otros panes",
+  "foto": "https://prod-mercadona.imgix.net/images/abb2109d4d04510357ddc3d160a066bd.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pan de molde blanco": {
+  "mercadona": "Pan de molde blanco Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de molde",
+  "foto": "https://prod-mercadona.imgix.net/images/37367d7a79c63686cbdb1cdad6b5e927.jpeg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan de molde integral": {
+  "mercadona": "Pan de molde 100% integral Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de molde",
+  "foto": "https://prod-mercadona.imgix.net/images/4257949726923aaa0bbdef3e1e90f753.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan de molde sin corteza": {
+  "mercadona": "Pan de molde blanco sin corteza Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de molde",
+  "foto": "https://prod-mercadona.imgix.net/images/7931704a16106081eb2e0d81c340306c.jpg?fit=crop&h=300&w=300",
+  "score": 1.264,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan integral": {
+  "mercadona": "Pan integral trigo 100%",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Barra de pan",
+  "foto": "https://prod-mercadona.imgix.net/images/af7f030f73aeb80be5996256f1b3f44f.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan de centeno": {
+  "mercadona": "6 Panes de centeno 51%",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de bocadillo",
+  "foto": "https://prod-mercadona.imgix.net/images/02216c41098c1435d23cc9da18b632b3.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan de hamburguesa": {
+  "mercadona": "Pan de burger Hacendado Rústico",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de hamburguesa y wrap",
+  "foto": "https://prod-mercadona.imgix.net/images/17b3a7964421bf5cf816bd81faa8a1b8.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pan de perrito": {
+  "mercadona": "Pan hot dog Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de hamburguesa y wrap",
+  "foto": "https://prod-mercadona.imgix.net/images/1a4384796c10baa72355deb00039cbd4.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pan de pita": {
+  "mercadona": "Pan de pita Mission",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de hamburguesa y wrap",
+  "foto": "https://prod-mercadona.imgix.net/images/4af89bf80e15b2a11b57f8e001013cc4.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan sin gluten": {
+  "mercadona": "Pan redondo sin gluten Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Otros panes",
+  "foto": "https://prod-mercadona.imgix.net/images/a3a8bd862ae9048c2fb1b2c56523bcad.jpeg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Tostadas (pan tostado)": {
+  "mercadona": "Pan tostado classic Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan tostado",
+  "foto": "https://prod-mercadona.imgix.net/images/1d7a425e6f2f3c735d48c7c2393f0fbf.jpg?fit=crop&h=300&w=300",
+  "score": 1.017,
+  "revisar": false,
+  "manual": false
+ },
+ "Biscotes": {
+  "mercadona": "Mini biscotes de trigo Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan tostado",
+  "foto": "https://prod-mercadona.imgix.net/images/d40f61328d9ef8d8be635b7de2dc5daf.jpeg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Picos / regañás": {
+  "mercadona": "Picos Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Picos",
+  "foto": "https://prod-mercadona.imgix.net/images/11a2123906a90bc11ab9ac4ae40a125a.jpg?fit=crop&h=300&w=300",
+  "score": 0.95,
+  "revisar": false,
+  "manual": false
+ },
+ "Rosquilletas": {
+  "mercadona": "Rosquilletas tradicionales Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Rosquilletas",
+  "foto": "https://prod-mercadona.imgix.net/images/04d088e5f7adf549e600794fcb169e22.jpeg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Croissant": {
+  "mercadona": "Croissant Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Bollería envasada",
+  "foto": "https://prod-mercadona.imgix.net/images/d586f3c22dacbfeee339548690651c36.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Napolitana de chocolate": {
+  "mercadona": "Napolitana de chocolate",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Bollería dulce",
+  "foto": "https://prod-mercadona.imgix.net/images/b11a29e9268cfa383d44f4cd77c7cb43.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Magdalenas": {
+  "mercadona": "Magdalenas Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Bollería envasada",
+  "foto": "https://prod-mercadona.imgix.net/images/7d86884645fb0122ac70cb84514e1f8c.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Bizcocho / sobaos": {
+  "mercadona": "Sobaos Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Bollería envasada",
+  "foto": "https://prod-mercadona.imgix.net/images/da9142870ffe1a47746b2c3f02c71716.jpeg?fit=crop&h=300&w=300",
+  "score": 0.95,
+  "revisar": false,
+  "manual": false
+ },
+ "Tortitas (pancakes)": {
+  "mercadona": "Tortitas de maíz Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Tortitas",
+  "foto": "https://prod-mercadona.imgix.net/images/0df71a709838dfb992e439f27e3828d9.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Palmera de chocolate": {
+  "mercadona": "Napolitana de chocolate",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Bollería dulce",
+  "foto": "https://prod-mercadona.imgix.net/images/b11a29e9268cfa383d44f4cd77c7cb43.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Empanada": {
+  "mercadona": "Empanada de atún",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Bollería salada",
+  "foto": "https://prod-mercadona.imgix.net/images/af643679aebe19a4769c91976f9585b1.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Torta de aceite": {
+  "mercadona": "Tortas de aceite Inés Rosales",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Bollería envasada",
+  "foto": "https://prod-mercadona.imgix.net/images/bcb8a5cfcad3ae65cbb352ddf3ecb3f4.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Fajitas / tortillas de trigo": {
+  "mercadona": "Tortillas de trigo Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan de hamburguesa y wrap",
+  "foto": "https://prod-mercadona.imgix.net/images/7a9d2b32b6c45163169f9b65fff244aa.jpg?fit=crop&h=300&w=300",
+  "score": 1.097,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan rallado": {
+  "mercadona": "Pan rallado Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Pan rallado",
+  "foto": "https://prod-mercadona.imgix.net/images/fe031df985de4909241d4503364df110.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Aceite de oliva virgen extra": {
+  "mercadona": "Aceite de oliva virgen extra Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Aceite de oliva",
+  "foto": "https://prod-mercadona.imgix.net/images/bda0f6a8c3a5f96a424b98c0df93f2e8.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Aceite de oliva (suave)": {
+  "mercadona": "Aceite de oliva 0,4º Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Aceite de oliva",
+  "foto": "https://prod-mercadona.imgix.net/images/3b8cde7b3cb069ee0316029012cf8562.jpg?fit=crop&h=300&w=300",
+  "score": 1.017,
+  "revisar": false,
+  "manual": false
+ },
+ "Aceite de girasol": {
+  "mercadona": "Aceite de girasol refinado 0,2º Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otros aceites",
+  "foto": "https://prod-mercadona.imgix.net/images/e6398afba1d032d2e1c0489fd727d2f6.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Vinagre de vino": {
+  "mercadona": "Vinagre de vino blanco Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Vinagre y otros aderezos",
+  "foto": "https://prod-mercadona.imgix.net/images/44c1552cc9f3945d63d01565d313846c.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Vinagre de manzana": {
+  "mercadona": "Vinagre de manzana Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Vinagre y otros aderezos",
+  "foto": "https://prod-mercadona.imgix.net/images/6803f40bdcd3d9b3be574bcee41399f4.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Vinagre balsámico": {
+  "mercadona": "Vinagre balsámico de Módena Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Vinagre y otros aderezos",
+  "foto": "https://prod-mercadona.imgix.net/images/ad2f9e12b1b52d36e022e0164652021a.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Sal": {
+  "mercadona": "Sal fina Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Sal y bicarbonato",
+  "foto": "https://prod-mercadona.imgix.net/images/5097b3d7450edab7c2d9586299f5f3b9.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Pimienta negra molida": {
+  "mercadona": "Pimienta negra molida Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Pimienta",
+  "foto": "https://prod-mercadona.imgix.net/images/905e76fd8f59b3931ae5e2c586c4a9f5.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Pimienta en grano": {
+  "mercadona": "Pimienta negra en grano Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Pimienta",
+  "foto": "https://prod-mercadona.imgix.net/images/ade2f829444a465f07de05c97b526258.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Pimentón dulce": {
+  "mercadona": "Pimentón dulce Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Colorante y pimentón",
+  "foto": "https://prod-mercadona.imgix.net/images/fa8610da91855ce1394dcac73c68220e.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Pimentón picante": {
+  "mercadona": "Pimentón picante Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Colorante y pimentón",
+  "foto": "https://prod-mercadona.imgix.net/images/2f865dc2dc829da4a0e2962fb922cd9c.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Orégano": {
+  "mercadona": "Orégano Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Hierbas",
+  "foto": "https://prod-mercadona.imgix.net/images/20a564cf97b2b9662bb7727d6008ed69.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Tomillo": {
+  "mercadona": "Tomillo Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Hierbas",
+  "foto": "https://prod-mercadona.imgix.net/images/23cda8ba2719d64662af5acde3485411.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Romero": {
+  "mercadona": "Romero Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Hierbas",
+  "foto": "https://prod-mercadona.imgix.net/images/8c7d240713cf6b4dc87f4ae05c734fdc.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Laurel": {
+  "mercadona": "Hoja de laurel Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Hierbas",
+  "foto": "https://prod-mercadona.imgix.net/images/4bce6bcc4f7a9880f0ee238f3e27003d.jpeg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Comino": {
+  "mercadona": "Comino molido Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otras especias",
+  "foto": "https://prod-mercadona.imgix.net/images/003c9821946990d15215928c180ec0b7.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Canela molida": {
+  "mercadona": "Canela molida Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otras especias",
+  "foto": "https://prod-mercadona.imgix.net/images/22948761cf10a9f149a06ec505fb8dcd.jpeg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Canela en rama": {
+  "mercadona": "Canela Ceylan en rama Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otras especias",
+  "foto": "https://prod-mercadona.imgix.net/images/79a95af1248f3f9e5f0a5fab40e06adf.jpeg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Nuez moscada": {
+  "mercadona": "Nuez moscada molida Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otras especias",
+  "foto": "https://prod-mercadona.imgix.net/images/26a3c69f637bdb1722940dbaa79f6cf9.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Curri": {
+  "mercadona": "Curry Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otras especias",
+  "foto": "https://prod-mercadona.imgix.net/images/b4dbf028827cf764d8f7b19257ce771e.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Perejil seco": {
+  "mercadona": "Perejil Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Hierbas",
+  "foto": "https://prod-mercadona.imgix.net/images/b2bc740ba01dd6f5b0c62f44a5557dee.jpg?fit=crop&h=300&w=300",
+  "score": 0.95,
+  "revisar": false,
+  "manual": false
+ },
+ "Albahaca seca": {
+  "mercadona": "Albahaca Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Hierbas",
+  "foto": "https://prod-mercadona.imgix.net/images/666740b544111126529a014431ba81f4.jpg?fit=crop&h=300&w=300",
+  "score": 0.95,
+  "revisar": false,
+  "manual": false
+ },
+ "Hierbas provenzales": {
+  "mercadona": "Hierbas provenzales Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Hierbas",
+  "foto": "https://prod-mercadona.imgix.net/images/75ea233839587117b294f2d15027f57a.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Ajo en polvo": {
+  "mercadona": "Ajo granulado Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otras especias",
+  "foto": "https://prod-mercadona.imgix.net/images/10f7ce7fe35de8f5b595db38a95a9cc5.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cebolla en polvo": {
+  "mercadona": "Cebolla en polvo Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Otras especias",
+  "foto": "https://prod-mercadona.imgix.net/images/4e60df323518b37ef8fcc6be6103526e.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Azafrán": {
+  "mercadona": "Azafrán molido Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Colorante y pimentón",
+  "foto": "https://prod-mercadona.imgix.net/images/9b1e3bf3f850bb972810225a35e2d27e.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Colorante alimentario": {
+  "mercadona": "Colorante alimentario Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Colorante y pimentón",
+  "foto": "https://prod-mercadona.imgix.net/images/279afe277bed6a3c1af998dbda9b66e7.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Pastillas de caldo": {
+  "mercadona": "Caldo de carne Hacendado en pastillas",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caldo en pastillas",
+  "foto": "https://prod-mercadona.imgix.net/images/9d46de5a77fb718d693fe36586b2ae4c.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Caldo líquido": {
+  "mercadona": "Caldo de pollo Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caldo líquido",
+  "foto": "https://prod-mercadona.imgix.net/images/6c57497fe4619d585d742041fcc9436e.jpg?fit=crop&h=300&w=300",
+  "score": 0.841,
+  "revisar": false,
+  "manual": false
+ },
+ "Salsa de tomate": {
+  "mercadona": "Salsa de tomate con Albahaca Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Salsas para pasta",
+  "foto": "https://prod-mercadona.imgix.net/images/0e502392ac037a1aefa8b4ed789485fb.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Tomate frito": {
+  "mercadona": "Tomate frito Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Tomate",
+  "foto": "https://prod-mercadona.imgix.net/images/e589c8259daf4b9335098fb9ade7ee09.jpg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Tomate triturado": {
+  "mercadona": "Tomate triturado Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Tomate",
+  "foto": "https://prod-mercadona.imgix.net/images/117a2a2230b103f17b50e07a73a8fc38.jpg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Tomate entero pelado": {
+  "mercadona": "Tomate entero pelado Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Tomate",
+  "foto": "https://prod-mercadona.imgix.net/images/da1986c59308309dbcb8fdd2e5c3f730.jpg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Kétchup": {
+  "mercadona": "Ketchup Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Ketchup",
+  "foto": "https://prod-mercadona.imgix.net/images/560d3c1a007e5ab9c97cc0bb2b23b206.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Mayonesa": {
+  "mercadona": "Mayonesa Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Mayonesa",
+  "foto": "https://prod-mercadona.imgix.net/images/375c1d5f612df94041b236a115c6449b.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Mostaza": {
+  "mercadona": "Mostaza de Dijon Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Mostaza",
+  "foto": "https://prod-mercadona.imgix.net/images/732a547ddb13e1ac5d7242a79807c611.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Salsa barbacoa": {
+  "mercadona": "Salsa Barbacoa Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Salsas para carnes",
+  "foto": "https://prod-mercadona.imgix.net/images/d01e6c7c307f1c60a9e67aac3e22700e.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Salsa de soja": {
+  "mercadona": "Salsa de Soja Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Salsas orientales",
+  "foto": "https://prod-mercadona.imgix.net/images/ecdca4a8897163723c7826a359c12db8.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Salsa picante": {
+  "mercadona": "Salsa curry Tikka Masala Hacendado picante",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Salsas para carnes",
+  "foto": "https://prod-mercadona.imgix.net/images/10d9d4c3a66655996a17513dca01d11b.jpeg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Alioli": {
+  "mercadona": "Alioli con perejil Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Allioli",
+  "foto": "https://prod-mercadona.imgix.net/images/cc105ddcf96286e8739a8f606a8bbe23.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Pesto": {
+  "mercadona": "Salsa Pesto con albahaca Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Salsas para pasta",
+  "foto": "https://prod-mercadona.imgix.net/images/92e34ebb5311251402c7009b282835b6.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Miel": {
+  "mercadona": "Miel de flores Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Miel",
+  "foto": "https://prod-mercadona.imgix.net/images/66756a57a7adcb50c2f6ea1256dcedfe.jpg?fit=crop&h=300&w=300",
+  "score": 1.136,
+  "revisar": false,
+  "manual": false
+ },
+ "Arroz redondo": {
+  "mercadona": "Arroz redondo Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Arroz",
+  "foto": "https://prod-mercadona.imgix.net/images/0daf43fb5761b823ce83c985930c97c9.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Arroz largo": {
+  "mercadona": "Arroz largo Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Arroz",
+  "foto": "https://prod-mercadona.imgix.net/images/801f924df0d429d82c0a136901dcb9b0.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Arroz basmati": {
+  "mercadona": "Arroz basmati aromático Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Arroz",
+  "foto": "https://prod-mercadona.imgix.net/images/ff02e0b326c0d33682f76e66cc825dda.jpg?fit=crop&h=300&w=300",
+  "score": 1.225,
+  "revisar": false,
+  "manual": false
+ },
+ "Arroz integral": {
+  "mercadona": "Arroz integral largo Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Arroz",
+  "foto": "https://prod-mercadona.imgix.net/images/4991480b2fe769d8673224a89d50636c.jpg?fit=crop&h=300&w=300",
+  "score": 1.225,
+  "revisar": false,
+  "manual": false
+ },
+ "Arroz bomba": {
+  "mercadona": "Arroz redondo Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Arroz",
+  "foto": "https://prod-mercadona.imgix.net/images/0daf43fb5761b823ce83c985930c97c9.jpg?fit=crop&h=300&w=300",
+  "score": 0.845,
+  "revisar": false,
+  "manual": false
+ },
+ "Arroz vaporizado": {
+  "mercadona": "Arroz vaporizado Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Arroz",
+  "foto": "https://prod-mercadona.imgix.net/images/1c5a40f534247a5a8b8e16737c809be8.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Lentejas": {
+  "mercadona": "Lenteja pardina Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Lentejas y otros",
+  "foto": "https://prod-mercadona.imgix.net/images/80c08ddcd236321ea41242268903726b.jpg?fit=crop&h=300&w=300",
+  "score": 1.145,
+  "revisar": false,
+  "manual": false
+ },
+ "Garbanzos": {
+  "mercadona": "Garbanzo Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Garbanzos",
+  "foto": "https://prod-mercadona.imgix.net/images/b917e6a5deaec485bc558150c129b2a1.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Alubias blancas": {
+  "mercadona": "Alubia blanca Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Alubias",
+  "foto": "https://prod-mercadona.imgix.net/images/ad8260b04f013a17ce1323a0f3ac40c5.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Alubias rojas": {
+  "mercadona": "Alubia roja Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Alubias",
+  "foto": "https://prod-mercadona.imgix.net/images/176a8ea1981b85fa0d906ed9f9a27145.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Alubias pintas": {
+  "mercadona": "Alubia pinta Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Alubias",
+  "foto": "https://prod-mercadona.imgix.net/images/85a56c263795eabc64fb234cfbfe8855.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Macarrones": {
+  "mercadona": "Macarrón Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Macarrones, pajaritas y hélices",
+  "foto": "https://prod-mercadona.imgix.net/images/fb1aa0c038c08e68b8d2c7ac8900b9db.jpeg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Espaguetis": {
+  "mercadona": "Spaghetti Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Spaghetti y tallarines",
+  "foto": "https://prod-mercadona.imgix.net/images/a88886e2672bdbcf24be02cb8ecddf2f.jpeg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Tallarines": {
+  "mercadona": "Tallarines Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Spaghetti y tallarines",
+  "foto": "https://prod-mercadona.imgix.net/images/7b60c169e6f22118d5d9ea21c4d8fe59.jpg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Fideos": {
+  "mercadona": "Fideo grueso Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Fideos",
+  "foto": "https://prod-mercadona.imgix.net/images/0778f8e6272f1c743d1da88f16c4d978.jpg?fit=crop&h=300&w=300",
+  "score": 1.145,
+  "revisar": false,
+  "manual": false
+ },
+ "Pasta de sopa": {
+  "mercadona": "Pasta estrellas Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Fideos",
+  "foto": "https://prod-mercadona.imgix.net/images/6c418320c51659907a16ff4f9192a2cf.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Placas de lasaña": {
+  "mercadona": "Placas para lasaña precocidas El Pavo",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Lasaña y canelones",
+  "foto": "https://prod-mercadona.imgix.net/images/96cc14f684c1d79e23f394f2ce293c7a.jpeg?fit=crop&h=300&w=300",
+  "score": 1.145,
+  "revisar": false,
+  "manual": false
+ },
+ "Placas de canelones": {
+  "mercadona": "Placas para canelones El Pavo",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Lasaña y canelones",
+  "foto": "https://prod-mercadona.imgix.net/images/facea9d66785b6079ac2d856e9e453a6.jpg?fit=crop&h=300&w=300",
+  "score": 1.225,
+  "revisar": false,
+  "manual": false
+ },
+ "Cuscús": {
+  "mercadona": "Sémola de trigo Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Harina",
+  "foto": "https://prod-mercadona.imgix.net/images/f2442195e628a9432cd9cdedc32cc813.jpg?fit=crop&h=300&w=300",
+  "score": 1.118,
+  "revisar": false,
+  "manual": false
+ },
+ "Quinoa": {
+  "mercadona": "Quinoa Hacendado",
+  "seccion": "Arroz, legumbres y pasta",
+  "categoria": "Arroz",
+  "foto": "https://prod-mercadona.imgix.net/images/5f96e6f16b3a5d30f2fd7135e3d1f74e.jpeg?fit=crop&h=300&w=300",
+  "score": 1.345,
+  "revisar": false,
+  "manual": false
+ },
+ "Harina de trigo": {
+  "mercadona": "Harina de trigo Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Harina",
+  "foto": "https://prod-mercadona.imgix.net/images/7b45ccb598af14286ed6a98dd181833b.jpg?fit=crop&h=300&w=300",
+  "score": 1.318,
+  "revisar": false,
+  "manual": false
+ },
+ "Harina de maíz": {
+  "mercadona": "Harina fina de maíz Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Harina",
+  "foto": "https://prod-mercadona.imgix.net/images/069cfa02e3a4332a949c399243ff319e.jpg?fit=crop&h=300&w=300",
+  "score": 1.198,
+  "revisar": false,
+  "manual": false
+ },
+ "Maicena": {
+  "mercadona": "Harina fina de maíz Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Harina",
+  "foto": "https://prod-mercadona.imgix.net/images/069cfa02e3a4332a949c399243ff319e.jpg?fit=crop&h=300&w=300",
+  "score": 1.198,
+  "revisar": false,
+  "manual": false
+ },
+ "Atún en aceite de oliva": {
+  "mercadona": "Atún en aceite de oliva Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Atún",
+  "foto": "https://prod-mercadona.imgix.net/images/890912ced7f8be4da5455ca493729892.jpeg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Atún en aceite de girasol": {
+  "mercadona": "Atún en aceite de girasol Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Atún",
+  "foto": "https://prod-mercadona.imgix.net/images/2c06dcbb4643e6b4447d5d064c4eb6a5.jpeg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Atún al natural": {
+  "mercadona": "Atún claro al natural Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Atún",
+  "foto": "https://prod-mercadona.imgix.net/images/956d1c5ec266d8ac6c94e6aa70335047.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Bonito del norte": {
+  "mercadona": "Bonito del norte en aceite de oliva Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Bonito",
+  "foto": "https://prod-mercadona.imgix.net/images/ab5f6221766e916ed6f7427b29a9666c.jpeg?fit=crop&h=300&w=300",
+  "score": 1.141,
+  "revisar": false,
+  "manual": false
+ },
+ "Caballa en escabeche": {
+  "mercadona": "Filetes de caballa del sur en aceite de oliva Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caballa y melva",
+  "foto": "https://prod-mercadona.imgix.net/images/a092a30536edf17460eace014bbfdfcf.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Sardinas en aceite": {
+  "mercadona": "Sardinas en aceite de oliva Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Sardinas",
+  "foto": "https://prod-mercadona.imgix.net/images/f0d751ea73bcb6ce3505fdc191fce5c8.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Sardinas en tomate": {
+  "mercadona": "Sardinillas en tomate Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Sardinas",
+  "foto": "https://prod-mercadona.imgix.net/images/aff82c8f60e81628279ad09c64dba7cc.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Mejillones en escabeche": {
+  "mercadona": "Mejillones en escabeche Hacendado pequeños",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Mejillones",
+  "foto": "https://prod-mercadona.imgix.net/images/27b73289f0e656a60d6ac9f6bc01346d.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Mejillones al natural": {
+  "mercadona": "Mejillones al natural Hacendado pequeños",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Mejillones",
+  "foto": "https://prod-mercadona.imgix.net/images/c8879720b1c9bae132effcfb1f11d3d3.jpeg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Berberechos al natural": {
+  "mercadona": "Berberecho al natural XS Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Berberechos y almejas",
+  "foto": "https://prod-mercadona.imgix.net/images/7063cd5dc297be7ae3b97485a2f6ace3.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Almejas al natural": {
+  "mercadona": "Almeja Hacendado congelada",
+  "seccion": "Marisco y pescado",
+  "categoria": "Marisco de concha",
+  "foto": "https://prod-mercadona.imgix.net/images/5077ee2d933dcad572b8a81e0ade8a2f.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pulpo en conserva": {
+  "mercadona": "Patas de pulpo cocido",
+  "seccion": "Marisco y pescado",
+  "categoria": "Sepia, pulpo y calamar",
+  "foto": "https://prod-mercadona.imgix.net/images/9b9ea675ef9147436e9336f7c61b3219.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Calamares en su tinta": {
+  "mercadona": "Calamar en tinta Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Otras conservas de pescado",
+  "foto": "https://prod-mercadona.imgix.net/images/67be86dbd75f714dc99d72bc71da27e5.jpg?fit=crop&h=300&w=300",
+  "score": 1.088,
+  "revisar": false,
+  "manual": false
+ },
+ "Anchoas": {
+  "mercadona": "Filetes de anchoa en aceite de oliva Hacendado",
+  "seccion": "Marisco y pescado",
+  "categoria": "Salazones",
+  "foto": "https://prod-mercadona.imgix.net/images/295dcdb95ca41e7576a396a533584e18.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Boquerones en vinagre (lata)": {
+  "mercadona": "Boquerón limpio sin cabeza",
+  "seccion": "Marisco y pescado",
+  "categoria": "Boquerón",
+  "foto": "https://prod-mercadona.imgix.net/images/b55f89c3aefe2502e390182d9f47657a.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Espárragos blancos": {
+  "mercadona": "Espárragos blancos medianos Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/85c714b08167eb401ae7f1da9565da16.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Espárragos verdes": {
+  "mercadona": "Espárragos verdes finos",
+  "seccion": "Fruta y verdura",
+  "categoria": "Otras verduras y hortalizas",
+  "foto": "https://prod-mercadona.imgix.net/images/065bc28929758f496bd5e60660d44728.jpg?fit=crop&h=300&w=300",
+  "score": 1.185,
+  "revisar": false,
+  "manual": false
+ },
+ "Alcachofas": {
+  "mercadona": "Alcachofa",
+  "seccion": "Fruta y verdura",
+  "categoria": "Otras verduras y hortalizas",
+  "foto": "https://prod-mercadona.imgix.net/images/2addd12060700a9447ceda61fee8ecb7.jpg?fit=crop&h=300&w=300",
+  "score": 1.305,
+  "revisar": false,
+  "manual": false
+ },
+ "Pimientos del piquillo": {
+  "mercadona": "Pimientos del piquillo enteros Hacendado extra",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/8d91c11f506e151e0dafe00a43ab12cf.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Pimientos asados": {
+  "mercadona": "Pimientos asados en tiras Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/8ced0c6ed820f4df77b1366caa05b147.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Champiñones": {
+  "mercadona": "Champiñones laminados Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/4c97fc1fdefb7083f3ddfa0fd6169cb4.jpg?fit=crop&h=300&w=300",
+  "score": 1.141,
+  "revisar": false,
+  "manual": false
+ },
+ "Aceitunas verdes": {
+  "mercadona": "Aceitunas verdes sin hueso Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Aceitunas verdes",
+  "foto": "https://prod-mercadona.imgix.net/images/12702dad1bb4fc1bbb9ac53afd2636e3.jpg?fit=crop&h=300&w=300",
+  "score": 1.203,
+  "revisar": false,
+  "manual": false
+ },
+ "Aceitunas negras": {
+  "mercadona": "Aceitunas negras sin hueso Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Aceitunas negras",
+  "foto": "https://prod-mercadona.imgix.net/images/8ea381beaef3459b5bc9a08d9eabf509.jpg?fit=crop&h=300&w=300",
+  "score": 1.203,
+  "revisar": false,
+  "manual": false
+ },
+ "Aceitunas rellenas": {
+  "mercadona": "Aceitunas verdes rellenas de anchoa Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Aceitunas verdes",
+  "foto": "https://prod-mercadona.imgix.net/images/a8be4414722e79192b356a7f3ababbc0.jpg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Pepinillos": {
+  "mercadona": "Pepinillos pequeños Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Pepinillos y otros encurtidos",
+  "foto": "https://prod-mercadona.imgix.net/images/3155f55c8c55f8a4b4778ce16a31a5f2.jpg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Cebolletas": {
+  "mercadona": "Cebollas tiernas",
+  "seccion": "Fruta y verdura",
+  "categoria": "Cebolla y ajo",
+  "foto": "https://prod-mercadona.imgix.net/images/3bbcca66baefa5c56bae00a07ca106f1.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Maíz dulce": {
+  "mercadona": "Maíz dulce Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/e31eda506e9dd39ca6def9bc2e2356b7.jpg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Guisantes": {
+  "mercadona": "Guisantes extra Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/910f80b121e0d631f4846989a432e560.jpg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Judías verdes": {
+  "mercadona": "Judías verdes redondas Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/5da9e6258cbd2e45b4b84ad093cfc80b.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Menestra": {
+  "mercadona": "Menestra de verduras Hacendado ultracongelada",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/cda982b20663598e095ee29141b906fc.jpg?fit=crop&h=300&w=300",
+  "score": 0.7,
+  "revisar": false,
+  "manual": false
+ },
+ "Pisto": {
+  "mercadona": "Fritada pisto Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Tomate",
+  "foto": "https://prod-mercadona.imgix.net/images/3adb057bffc798dbc9f4a5240d663f01.jpg?fit=crop&h=300&w=300",
+  "score": 1.141,
+  "revisar": false,
+  "manual": false
+ },
+ "Gazpacho": {
+  "mercadona": "Gazpacho tradicional Hacendado",
+  "seccion": "Pizzas y platos preparados",
+  "categoria": "Gazpacho y salmorejo",
+  "foto": "https://prod-mercadona.imgix.net/images/421c8b1b4b3542724bea11278c099015.jpg?fit=crop&h=300&w=300",
+  "score": 1.109,
+  "revisar": false,
+  "manual": false
+ },
+ "Salmorejo": {
+  "mercadona": "Salmorejo fresco Hacendado",
+  "seccion": "Pizzas y platos preparados",
+  "categoria": "Gazpacho y salmorejo",
+  "foto": "https://prod-mercadona.imgix.net/images/4ad4e401cc361b931a0c425c4ef32a3b.jpg?fit=crop&h=300&w=300",
+  "score": 1.109,
+  "revisar": false,
+  "manual": false
+ },
+ "Caldo de pollo": {
+  "mercadona": "Caldo de pollo Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caldo líquido",
+  "foto": "https://prod-mercadona.imgix.net/images/6c57497fe4619d585d742041fcc9436e.jpg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Caldo de carne": {
+  "mercadona": "Caldo de carne con sofrito Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caldo líquido",
+  "foto": "https://prod-mercadona.imgix.net/images/4a02eea762459978bc3a5439935a732e.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Caldo de verduras": {
+  "mercadona": "Caldo de verduras Hacendado en pastillas",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caldo en pastillas",
+  "foto": "https://prod-mercadona.imgix.net/images/c2dad675fcad5572a3b39c12a2246eab.jpg?fit=crop&h=300&w=300",
+  "score": 1.221,
+  "revisar": false,
+  "manual": false
+ },
+ "Caldo de pescado": {
+  "mercadona": "Caldo de pescado Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caldo líquido",
+  "foto": "https://prod-mercadona.imgix.net/images/449bcde120352282518671422bce0c82.jpg?fit=crop&h=300&w=300",
+  "score": 1.341,
+  "revisar": false,
+  "manual": false
+ },
+ "Fumet": {
+  "mercadona": "Fumet caldo de pescado Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Caldo líquido",
+  "foto": "https://prod-mercadona.imgix.net/images/4f6e92122fbfc3c45c0d340407824eb3.jpg?fit=crop&h=300&w=300",
+  "score": 1.041,
+  "revisar": false,
+  "manual": false
+ },
+ "Azúcar blanco": {
+  "mercadona": "Azúcar blanco Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Azúcar",
+  "foto": "https://prod-mercadona.imgix.net/images/782bc97fd2960e24b4505e25b384a2d4.jpg?fit=crop&h=300&w=300",
+  "score": 1.336,
+  "revisar": false,
+  "manual": false
+ },
+ "Azúcar moreno": {
+  "mercadona": "Azúcar moreno de caña Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Azúcar",
+  "foto": "https://prod-mercadona.imgix.net/images/feede3851164a6adf1969b62beaacb36.jpg?fit=crop&h=300&w=300",
+  "score": 1.216,
+  "revisar": false,
+  "manual": false
+ },
+ "Azúcar glas": {
+  "mercadona": "Azúcar glas Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Azúcar",
+  "foto": "https://prod-mercadona.imgix.net/images/f1bd7034ca0639bf280d3710e4eb58c6.jpg?fit=crop&h=300&w=300",
+  "score": 1.336,
+  "revisar": false,
+  "manual": false
+ },
+ "Edulcorante": {
+  "mercadona": "Edulcorante líquido sacarina Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Edulcorante y otros",
+  "foto": "https://prod-mercadona.imgix.net/images/6bafe98675aec76afe33d1a6da1ab4fe.jpeg?fit=crop&h=300&w=300",
+  "score": 1.036,
+  "revisar": false,
+  "manual": false
+ },
+ "Chocolate negro": {
+  "mercadona": "Chocolate negro 85% cacao Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Chocolate negro",
+  "foto": "https://prod-mercadona.imgix.net/images/cb7d3bfd6ed5ad578883c843a9945b03.jpg?fit=crop&h=300&w=300",
+  "score": 1.216,
+  "revisar": false,
+  "manual": false
+ },
+ "Chocolate con leche": {
+  "mercadona": "Chocolate con leche Milka",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Chocolate con leche",
+  "foto": "https://prod-mercadona.imgix.net/images/00dc4c20b489cf94612225621e01e234.jpg?fit=crop&h=300&w=300",
+  "score": 1.216,
+  "revisar": false,
+  "manual": false
+ },
+ "Chocolate blanco": {
+  "mercadona": "Chocolate blanco Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Chocolate blanco",
+  "foto": "https://prod-mercadona.imgix.net/images/b89611e734b525d3b29d13d1a4cc5c4e.jpg?fit=crop&h=300&w=300",
+  "score": 1.336,
+  "revisar": false,
+  "manual": false
+ },
+ "Chocolate a la taza": {
+  "mercadona": "Chocolate líquido a la taza Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Chocolate a la taza",
+  "foto": "https://prod-mercadona.imgix.net/images/ba0a4a3958ff462e8b171ef08f6dce66.jpeg?fit=crop&h=300&w=300",
+  "score": 1.212,
+  "revisar": false,
+  "manual": false
+ },
+ "Cacao en polvo": {
+  "mercadona": "Cacao en polvo a la taza Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Chocolate a la taza",
+  "foto": "https://prod-mercadona.imgix.net/images/9ea94cd14bee28b1e71d5391c9c69013.jpg?fit=crop&h=300&w=300",
+  "score": 1.212,
+  "revisar": false,
+  "manual": false
+ },
+ "Cacao soluble": {
+  "mercadona": "Cacao soluble Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Cacao soluble",
+  "foto": "https://prod-mercadona.imgix.net/images/de55b4100bc073acfcf65889b36d86e9.jpg?fit=crop&h=300&w=300",
+  "score": 1.332,
+  "revisar": false,
+  "manual": false
+ },
+ "Crema de cacao para untar": {
+  "mercadona": "Crema al cacao con avellanas Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Cremas de untar",
+  "foto": "https://prod-mercadona.imgix.net/images/95bdbcb83e6a0a4d83de80f084e71e96.jpg?fit=crop&h=300&w=300",
+  "score": 1.003,
+  "revisar": false,
+  "manual": false
+ },
+ "Mermelada": {
+  "mercadona": "Mermelada de fresa Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Mermelada",
+  "foto": "https://prod-mercadona.imgix.net/images/899369e0e11783224596d6489a4228b0.jpg?fit=crop&h=300&w=300",
+  "score": 1.136,
+  "revisar": false,
+  "manual": false
+ },
+ "Mermelada sin azúcar": {
+  "mercadona": "Mermelada de fresa Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Mermelada",
+  "foto": "https://prod-mercadona.imgix.net/images/899369e0e11783224596d6489a4228b0.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Crema de cacahuete": {
+  "mercadona": "Crema de cacahuete 100% Hacendado",
+  "seccion": "Azúcar, caramelos y chocolate",
+  "categoria": "Cremas de untar",
+  "foto": "https://prod-mercadona.imgix.net/images/ecac26182b20af3cb009a9b33cac5693.jpg?fit=crop&h=300&w=300",
+  "score": 1.336,
+  "revisar": false,
+  "manual": false
+ },
+ "Gelatina": {
+  "mercadona": "Gelatina neutra en láminas Foodsy",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Levadura y preparado repostería",
+  "foto": "https://prod-mercadona.imgix.net/images/2d4ed30e7d3dcd3b525e01c5c5a8ace0.jpeg?fit=crop&h=300&w=300",
+  "score": 0.958,
+  "revisar": false,
+  "manual": false
+ },
+ "Levadura en polvo": {
+  "mercadona": "Levadura de panadería Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Levadura y preparado repostería",
+  "foto": "https://prod-mercadona.imgix.net/images/1d5f5c153bdb7d00e9647f338f4f3d6b.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Levadura fresca": {
+  "mercadona": "Levadura fresca Levital",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Levadura y preparado repostería",
+  "foto": "https://prod-mercadona.imgix.net/images/a61f9bff30d673cbd0bfb25518258879.jpg?fit=crop&h=300&w=300",
+  "score": 1.198,
+  "revisar": false,
+  "manual": false
+ },
+ "Café molido natural": {
+  "mercadona": "Café molido natural Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Café molido",
+  "foto": "https://prod-mercadona.imgix.net/images/1bee5993195e32109b08b2742ca1452e.jpg?fit=crop&h=300&w=300",
+  "score": 1.332,
+  "revisar": false,
+  "manual": false
+ },
+ "Café molido descafeinado": {
+  "mercadona": "Café molido descafeinado Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Café molido",
+  "foto": "https://prod-mercadona.imgix.net/images/344ee965ac0f72c33cbe054c813caa49.jpg?fit=crop&h=300&w=300",
+  "score": 1.332,
+  "revisar": false,
+  "manual": false
+ },
+ "Café en grano": {
+  "mercadona": "Café en grano natural Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Café en grano",
+  "foto": "https://prod-mercadona.imgix.net/images/6cbe79c494bb98dda9189512a5932c71.jpg?fit=crop&h=300&w=300",
+  "score": 1.212,
+  "revisar": false,
+  "manual": false
+ },
+ "Café soluble": {
+  "mercadona": "Café soluble Classic Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Café soluble",
+  "foto": "https://prod-mercadona.imgix.net/images/e344726a7521b54735e68a88f002ead4.jpg?fit=crop&h=300&w=300",
+  "score": 1.212,
+  "revisar": false,
+  "manual": false
+ },
+ "Cápsulas de café": {
+  "mercadona": "Café en cápsula extra fuerte Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Cápsulas compatibles Nespresso",
+  "foto": "https://prod-mercadona.imgix.net/images/8d05d7fc4ecb2ebe79e54aa409334508.jpg?fit=crop&h=300&w=300",
+  "score": 1.212,
+  "revisar": false,
+  "manual": false
+ },
+ "Té": {
+  "mercadona": "Té verde Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Té",
+  "foto": "https://prod-mercadona.imgix.net/images/d4d5d098f5dce80ae9b9fa2e72fade52.jpg?fit=crop&h=300&w=300",
+  "score": 1.132,
+  "revisar": false,
+  "manual": false
+ },
+ "Infusiones": {
+  "mercadona": "Infusión Manzanilla Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Infusiones",
+  "foto": "https://prod-mercadona.imgix.net/images/ba76df9c56636d070f1be9b797bc33cb.jpg?fit=crop&h=300&w=300",
+  "score": 1.132,
+  "revisar": false,
+  "manual": false
+ },
+ "Manzanilla": {
+  "mercadona": "Infusión Manzanilla Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Infusiones",
+  "foto": "https://prod-mercadona.imgix.net/images/ba76df9c56636d070f1be9b797bc33cb.jpg?fit=crop&h=300&w=300",
+  "score": 1.132,
+  "revisar": false,
+  "manual": false
+ },
+ "Poleo menta": {
+  "mercadona": "Infusión Menta Poleo Hacendado",
+  "seccion": "Cacao, café e infusiones",
+  "categoria": "Infusiones",
+  "foto": "https://prod-mercadona.imgix.net/images/db1e5eeb680220f22148c39a8bbae52a.jpg?fit=crop&h=300&w=300",
+  "score": 1.212,
+  "revisar": false,
+  "manual": false
+ },
+ "Cereales de desayuno (copos de maíz)": {
+  "mercadona": "Cereales copos de maíz Corn Flakes Hacendado 0% azúcares añadidos",
+  "seccion": "Cereales y galletas",
+  "categoria": "Cereales",
+  "foto": "https://prod-mercadona.imgix.net/images/413f941aa57b4903cc693d93171b87f7.jpg?fit=crop&h=300&w=300",
+  "score": 0.955,
+  "revisar": false,
+  "manual": false
+ },
+ "Cereales de chocolate": {
+  "mercadona": "Cereales copos de trigo Chocodays Hacendado con chocolate",
+  "seccion": "Cereales y galletas",
+  "categoria": "Cereales",
+  "foto": "https://prod-mercadona.imgix.net/images/b993cc6e84c05e720f2a69794c345ca2.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cereales integrales": {
+  "mercadona": "Cereales copos de trigo integral y arroz Hacendado 0% azúcares añadidos",
+  "seccion": "Cereales y galletas",
+  "categoria": "Cereales integrales y muesli",
+  "foto": "https://prod-mercadona.imgix.net/images/b911f6af2c54a9e27b676aef897ba8ff.jpeg?fit=crop&h=300&w=300",
+  "score": 0.994,
+  "revisar": false,
+  "manual": false
+ },
+ "Muesli": {
+  "mercadona": "Muesli Hacendado con frutas",
+  "seccion": "Cereales y galletas",
+  "categoria": "Cereales integrales y muesli",
+  "foto": "https://prod-mercadona.imgix.net/images/70a636d2cd573150d0eb69c60b12d6cc.jpg?fit=crop&h=300&w=300",
+  "score": 1.127,
+  "revisar": false,
+  "manual": false
+ },
+ "Avena": {
+  "mercadona": "Avena molida Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Cereales integrales y muesli",
+  "foto": "https://prod-mercadona.imgix.net/images/69ee9eee81e7d2ed2450ba9c9b5cb144.jpg?fit=crop&h=300&w=300",
+  "score": 1.127,
+  "revisar": false,
+  "manual": false
+ },
+ "Galletas María": {
+  "mercadona": "Galletas María Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Galletas desayuno",
+  "foto": "https://prod-mercadona.imgix.net/images/11fb16cd4d93c1d07149041ae474faff.jpg?fit=crop&h=300&w=300",
+  "score": 1.327,
+  "revisar": false,
+  "manual": false
+ },
+ "Galletas de chocolate": {
+  "mercadona": "Galletas Chocominis sabor chocolate Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Con chocolate y rellenas",
+  "foto": "https://prod-mercadona.imgix.net/images/c4b883003d2ed5b43723c5761426e0d2.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Galletas rellenas": {
+  "mercadona": "Galletas rebuenas Hacendado rellenas sabor chocolate",
+  "seccion": "Cereales y galletas",
+  "categoria": "Con chocolate y rellenas",
+  "foto": "https://prod-mercadona.imgix.net/images/77aa3673bc39603fc56d5bfc3abf197a.jpg?fit=crop&h=300&w=300",
+  "score": 1.07,
+  "revisar": false,
+  "manual": false
+ },
+ "Galletas integrales": {
+  "mercadona": "Galletas María Integral Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Galletas integrales y digestive",
+  "foto": "https://prod-mercadona.imgix.net/images/6ab122415b5cd79908406764981a3625.jpg?fit=crop&h=300&w=300",
+  "score": 1.207,
+  "revisar": false,
+  "manual": false
+ },
+ "Galletas sin gluten": {
+  "mercadona": "Galletas María sin gluten y sin lactosa Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Galletas desayuno",
+  "foto": "https://prod-mercadona.imgix.net/images/ef9269e1c7f037d478f1329b5b762c14.jpg?fit=crop&h=300&w=300",
+  "score": 1.127,
+  "revisar": false,
+  "manual": false
+ },
+ "Barquillos": {
+  "mercadona": "Barquillos con crema de avellanas Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Con chocolate y rellenas",
+  "foto": "https://prod-mercadona.imgix.net/images/c51ba88a8aa175eeea842266506ef7bc.jpg?fit=crop&h=300&w=300",
+  "score": 1.027,
+  "revisar": false,
+  "manual": false
+ },
+ "Tortitas de arroz": {
+  "mercadona": "Tortitas de arroz Hacendado",
+  "seccion": "Cereales y galletas",
+  "categoria": "Tortitas",
+  "foto": "https://prod-mercadona.imgix.net/images/a202828b49681aeceaa281bc820c1a18.jpg?fit=crop&h=300&w=300",
+  "score": 1.327,
+  "revisar": false,
+  "manual": false
+ },
+ "Patatas fritas": {
+  "mercadona": "Patatas fritas extra crujientes Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Patatas fritas",
+  "foto": "https://prod-mercadona.imgix.net/images/0a90d8314e7aafa09f58bc1d175f21f5.jpg?fit=crop&h=300&w=300",
+  "score": 1.203,
+  "revisar": false,
+  "manual": false
+ },
+ "Patatas fritas onduladas": {
+  "mercadona": "Patatas fritas onduladas Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Patatas fritas",
+  "foto": "https://prod-mercadona.imgix.net/images/555bc4afaa40600dc25395cdfdfbe840.jpg?fit=crop&h=300&w=300",
+  "score": 1.323,
+  "revisar": false,
+  "manual": false
+ },
+ "Nachos": {
+  "mercadona": "Nachos Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Snacks",
+  "foto": "https://prod-mercadona.imgix.net/images/5ea6209ff18125614b1c278484587d91.jpeg?fit=crop&h=300&w=300",
+  "score": 1.323,
+  "revisar": false,
+  "manual": false
+ },
+ "Aros / gusanitos": {
+  "mercadona": "Aros de maíz Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Snacks",
+  "foto": "https://prod-mercadona.imgix.net/images/e1c328248e9d621edc40ea9717d81fb7.jpg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Palomitas": {
+  "mercadona": "Maíz palomitas Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/49e0537f51ab71a7a023fa71695d6b94.jpeg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Cacahuetes": {
+  "mercadona": "Cacahuete tostado con sal Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/b335759dffb927abd3ea0b2c13deafa9.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Almendras": {
+  "mercadona": "Almendra natural Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/b0be61b365cd2b6090deafd0a6ad9e41.jpg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Nueces": {
+  "mercadona": "Nuez natural Hacendado pelada",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/de768af5358346867a912d57ec96b69c.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Avellanas": {
+  "mercadona": "Avellana tostada Hacendado 0% sal añadida",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/7db587b3feda51c3ddca45fd3d5bc4d0.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pistachos": {
+  "mercadona": "Pistacho tostado Hacendado con sal",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/7fa63ca1c65fe558cc9636e274fecf0d.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Anacardos": {
+  "mercadona": "Anacardo natural Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/2ae6ffebda4166b4a4a860bf81c47378.jpeg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Pipas": {
+  "mercadona": "Pipas girasol barbacoa Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Frutos secos",
+  "foto": "https://prod-mercadona.imgix.net/images/c43215e3740b7df52600a080a78ac01f.jpeg?fit=crop&h=300&w=300",
+  "score": 1.023,
+  "revisar": false,
+  "manual": false
+ },
+ "Pasas": {
+  "mercadona": "Pasas sultanas sin semillas Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Fruta desecada",
+  "foto": "https://prod-mercadona.imgix.net/images/95d65ccd270215a2364fb14f07fd87be.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Dátiles": {
+  "mercadona": "Dátiles en rama Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Fruta desecada",
+  "foto": "https://prod-mercadona.imgix.net/images/faf25fce5e38d24ce81df1e4b5f7a64c.jpg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Orejones": {
+  "mercadona": "Orejones albaricoque Hacendado",
+  "seccion": "Aperitivos",
+  "categoria": "Fruta desecada",
+  "foto": "https://prod-mercadona.imgix.net/images/1bd2a02ab94af3ea2d6abc653abcdbd3.jpg?fit=crop&h=300&w=300",
+  "score": 1.123,
+  "revisar": false,
+  "manual": false
+ },
+ "Guisantes congelados": {
+  "mercadona": "Guisante muy tierno Hacendado ultracongelado",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/110a733a4288e3cee3fa98822491ea5a.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Judías verdes congeladas": {
+  "mercadona": "Judía verde plana Hacendado ultracongelada",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/b4c7ca3ec466371e2d5f09589e9c663e.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Menestra de verduras": {
+  "mercadona": "Menestra de verduras Hacendado ultracongelada",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/cda982b20663598e095ee29141b906fc.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Brócoli": {
+  "mercadona": "Brócoli Hacendado ultracongelado",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/4137c2c4c17cd4cc22e3161b5d9b50d9.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Coliflor": {
+  "mercadona": "Coliflor Hacendado ultracongelada",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/1d9a6b48331e74e0ad78d3daa112e748.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Espinacas": {
+  "mercadona": "Espinaca en porciones Hacendado ultracongelada",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/708f8d553aec26d56e2e09daf447df4b.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Acelgas": {
+  "mercadona": "Acelgas troceadas Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/0d9b2568b0af3d4bdba906575fbf45e6.jpg?fit=crop&h=300&w=300",
+  "score": 0.8,
+  "revisar": false,
+  "manual": false
+ },
+ "Champiñones / setas": {
+  "mercadona": "Champiñón laminado Hacendado",
+  "seccion": "Conservas, caldos y cremas",
+  "categoria": "Conservas verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/3cd99cb7145b94f63805588ec374b019.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pimiento troceado": {
+  "mercadona": "Pimiento rojo y verde Hacendado ultracongelado",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/edc3300ee19dd682083042d5b90d4ca1.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cebolla troceada": {
+  "mercadona": "Cebolla troceada Hacendado ultracongelada",
+  "seccion": "Congelados",
+  "categoria": "Verdura",
+  "foto": "https://prod-mercadona.imgix.net/images/01e62dd81eb0ed0c43d341f5dc84d170.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Patatas fritas (bastones)": {
+  "mercadona": "Patatas prefritas corte fino Hacendado ultracongeladas",
+  "seccion": "Congelados",
+  "categoria": "Patatas",
+  "foto": "https://prod-mercadona.imgix.net/images/44520b07bbfc555c61ef33a8310ed1fc.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Patatas deluxe / gajo": {
+  "mercadona": "Patatas prefritas gajo Hacendado ultracongeladas",
+  "seccion": "Congelados",
+  "categoria": "Patatas",
+  "foto": "https://prod-mercadona.imgix.net/images/03cc22cb0e1921e0e5463c6252ca3dde.jpg?fit=crop&h=300&w=300",
+  "score": 0.96,
+  "revisar": false,
+  "manual": false
+ },
+ "Croquetas": {
+  "mercadona": "Croquetas de cocido Hacendado ultracongeladas",
+  "seccion": "Congelados",
+  "categoria": "Carne rebozada",
+  "foto": "https://prod-mercadona.imgix.net/images/1528c21f212a7b7eb203724cba48cfe9.jpeg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Empanadillas": {
+  "mercadona": "Empanadillas de atún Hacendado ultracongeladas",
+  "seccion": "Marisco y pescado",
+  "categoria": "Pescado rebozado congelado",
+  "foto": "https://prod-mercadona.imgix.net/images/9b146c9fe9a7f3988138b8d9626eab95.jpg?fit=crop&h=300&w=300",
+  "score": 1.017,
+  "revisar": false,
+  "manual": false
+ },
+ "San Jacobos": {
+  "mercadona": "San Jacobos empanados de york y queso Hacendado ultracongelados",
+  "seccion": "Congelados",
+  "categoria": "Carne rebozada",
+  "foto": "https://prod-mercadona.imgix.net/images/f2cf8a4cc78bd048eb248eda8c31825d.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Nuggets de pollo": {
+  "mercadona": "Nuggets de pollo Hacendado ultracongelados",
+  "seccion": "Congelados",
+  "categoria": "Carne rebozada",
+  "foto": "https://prod-mercadona.imgix.net/images/e8fa9d32e0463cb2cb7013f8cc1238fe.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Palitos de merluza": {
+  "mercadona": "Palitos de merluza a la romana Hacendado ultracongelados",
+  "seccion": "Marisco y pescado",
+  "categoria": "Pescado rebozado congelado",
+  "foto": "https://prod-mercadona.imgix.net/images/290b68c3ef4f27d675f10fed5a944afa.jpg?fit=crop&h=300&w=300",
+  "score": 1.117,
+  "revisar": false,
+  "manual": false
+ },
+ "Filetes de merluza": {
+  "mercadona": "Filetes de merluza al huevo Hacendado ultracongelados",
+  "seccion": "Marisco y pescado",
+  "categoria": "Pescado rebozado congelado",
+  "foto": "https://prod-mercadona.imgix.net/images/34684f718bc72de972db7881cc030abd.jpg?fit=crop&h=300&w=300",
+  "score": 1.117,
+  "revisar": false,
+  "manual": false
+ },
+ "Lomos de bacalao": {
+  "mercadona": "Lomo de bacalao MareDeus ultracongelado",
+  "seccion": "Marisco y pescado",
+  "categoria": "Pescado congelado",
+  "foto": "https://prod-mercadona.imgix.net/images/aa68741e624d6f99903465294f3de2aa.jpg?fit=crop&h=300&w=300",
+  "score": 1.117,
+  "revisar": false,
+  "manual": false
+ },
+ "Salmón": {
+  "mercadona": "Lomos de salmón sin piel Hacendado congelado",
+  "seccion": "Marisco y pescado",
+  "categoria": "Pescado congelado",
+  "foto": "https://prod-mercadona.imgix.net/images/d276498ce484c1c8c3b247d77589e49d.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Gambas": {
+  "mercadona": "Gamba cocida",
+  "seccion": "Marisco y pescado",
+  "categoria": "Marisco",
+  "foto": "https://prod-mercadona.imgix.net/images/0409f1ae45b83dc22c914dd74456d0f6.jpg?fit=crop&h=300&w=300",
+  "score": 1.117,
+  "revisar": false,
+  "manual": false
+ },
+ "Langostinos": {
+  "mercadona": "Langostino cocido",
+  "seccion": "Marisco y pescado",
+  "categoria": "Marisco",
+  "foto": "https://prod-mercadona.imgix.net/images/503eb7e89f381ca03a139660f538c741.jpeg?fit=crop&h=300&w=300",
+  "score": 1.117,
+  "revisar": false,
+  "manual": false
+ },
+ "Anillas de calamar": {
+  "mercadona": "Calamar troceado limpio Hacendado congelado",
+  "seccion": "Marisco y pescado",
+  "categoria": "Sepia, pulpo y calamar congelado",
+  "foto": "https://prod-mercadona.imgix.net/images/2c316c4572b58be6a109d7f3375ffa40.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Mejillones": {
+  "mercadona": "Mejillón vivo",
+  "seccion": "Marisco y pescado",
+  "categoria": "Marisco de concha",
+  "foto": "https://prod-mercadona.imgix.net/images/aa3eb07d68dd6eef6ee8a80fc6d898b8.jpeg?fit=crop&h=300&w=300",
+  "score": 1.117,
+  "revisar": false,
+  "manual": false
+ },
+ "Calamares": {
+  "mercadona": "Calamar grande Hacendado congelado",
+  "seccion": "Marisco y pescado",
+  "categoria": "Sepia, pulpo y calamar congelado",
+  "foto": "https://prod-mercadona.imgix.net/images/f932659cddf67f574bb41f1d4c775830.jpg?fit=crop&h=300&w=300",
+  "score": 1.017,
+  "revisar": false,
+  "manual": false
+ },
+ "Almejas": {
+  "mercadona": "Almeja Hacendado congelada",
+  "seccion": "Marisco y pescado",
+  "categoria": "Marisco de concha",
+  "foto": "https://prod-mercadona.imgix.net/images/5077ee2d933dcad572b8a81e0ade8a2f.jpg?fit=crop&h=300&w=300",
+  "score": 1.117,
+  "revisar": false,
+  "manual": false
+ },
+ "Pechuga de pollo": {
+  "mercadona": "Pechugas de pollo enteras congeladas",
+  "seccion": "Congelados",
+  "categoria": "Carne",
+  "foto": "https://prod-mercadona.imgix.net/images/6200b9b8c98e0a9e0aaf48a1162ffbff.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Hamburguesas": {
+  "mercadona": "Hamburguesa de vacuno angus",
+  "seccion": "Carne",
+  "categoria": "Hamburguesas",
+  "foto": "https://prod-mercadona.imgix.net/images/b89a789feaea09227b2f2b7897177969.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Albóndigas": {
+  "mercadona": "Albóndigas guisadas Hacendado",
+  "seccion": "Pizzas y platos preparados",
+  "categoria": "Carne",
+  "foto": "https://prod-mercadona.imgix.net/images/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=300&w=300",
+  "score": 1.133,
+  "revisar": false,
+  "manual": false
+ },
+ "Salchichas": {
+  "mercadona": "Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Salchichas",
+  "foto": "https://prod-mercadona.imgix.net/images/d3ca58a7c971dab07cb0095a4391f33b.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pizza": {
+  "mercadona": "Pizza barbacoa Hacendado",
+  "seccion": "Pizzas y platos preparados",
+  "categoria": "Pizzas refrigeradas",
+  "foto": "https://prod-mercadona.imgix.net/images/db22e8c9ad0b8d9583d32d9d23cca747.jpg?fit=crop&h=300&w=300",
+  "score": 1.133,
+  "revisar": false,
+  "manual": false
+ },
+ "Lasaña": {
+  "mercadona": "Lasaña boloñesa Hacendado",
+  "seccion": "Pizzas y platos preparados",
+  "categoria": "Pasta",
+  "foto": "https://prod-mercadona.imgix.net/images/30ad411832645d054ed2e83428790881.jpg?fit=crop&h=300&w=300",
+  "score": 1.133,
+  "revisar": false,
+  "manual": false
+ },
+ "Canelones": {
+  "mercadona": "Canelones de carne Hacendado",
+  "seccion": "Pizzas y platos preparados",
+  "categoria": "Pasta",
+  "foto": "https://prod-mercadona.imgix.net/images/126f9310f453f27e797245339d269959.jpeg?fit=crop&h=300&w=300",
+  "score": 1.133,
+  "revisar": false,
+  "manual": false
+ },
+ "Paella": {
+  "mercadona": "Preparado de paella y sopa Hacendado ultracongelado",
+  "seccion": "Marisco y pescado",
+  "categoria": "Marisco",
+  "foto": "https://prod-mercadona.imgix.net/images/f6f62c8df2949dff816f73f274bfd2b6.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Helado de vainilla": {
+  "mercadona": "Helado de vainilla Hacendado",
+  "seccion": "Congelados",
+  "categoria": "Tarrinas",
+  "foto": "https://prod-mercadona.imgix.net/images/c6493ad34b4ed3d0cb2502a726f2c1e9.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Helado de chocolate": {
+  "mercadona": "Helado de chocolate Hacendado con trocitos sabor chocolate",
+  "seccion": "Congelados",
+  "categoria": "Tarrinas",
+  "foto": "https://prod-mercadona.imgix.net/images/99bd1a90433c1400501702c7285f3485.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Helado de fresa": {
+  "mercadona": "Helado de cheesecake Hacendado con salsa de fresa",
+  "seccion": "Congelados",
+  "categoria": "Tarrinas",
+  "foto": "https://prod-mercadona.imgix.net/images/fab0747a97a445dfb3dbfef385b40edb.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Polos": {
+  "mercadona": "Helado sorbete con limón Hacendado",
+  "seccion": "Congelados",
+  "categoria": "Tarrinas",
+  "foto": "https://prod-mercadona.imgix.net/images/63e1d780e3c7a051acb25f3e70b2d0a8.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Tarta helada": {
+  "mercadona": "Tarta helada sabor nata y chocolate Hacendado",
+  "seccion": "Congelados",
+  "categoria": "Barras de helado y barquillos",
+  "foto": "https://prod-mercadona.imgix.net/images/abf468ed311c33b400a723c9b4d7813f.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Hielo": {
+  "mercadona": "Cubos de hielo Hacendado",
+  "seccion": "Congelados",
+  "categoria": "Hielo",
+  "foto": "https://prod-mercadona.imgix.net/images/5e0082c6a978eeca37022c95f264a97b.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Pan (baguette)": {
+  "mercadona": "Baguette masa madre",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Barra de pan",
+  "foto": "https://prod-mercadona.imgix.net/images/c1f8685ad5daaf993884112888f49191.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Masa de hojaldre": {
+  "mercadona": "Masa fresca hojaldre Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Masas",
+  "foto": "https://prod-mercadona.imgix.net/images/60446a09ebf36c209b7810d2b6fc65a8.jpg?fit=crop&h=300&w=300",
+  "score": 0.88,
+  "revisar": false,
+  "manual": false
+ },
+ "Masa quebrada": {
+  "mercadona": "Masa fresca quebrada brisa Hacendado",
+  "seccion": "Panadería y pastelería",
+  "categoria": "Masas",
+  "foto": "https://prod-mercadona.imgix.net/images/65cb5d0e6a0635b90a515ba1c85324ba.jpeg?fit=crop&h=300&w=300",
+  "score": 0.8,
+  "revisar": false,
+  "manual": false
+ },
+ "Fruta congelada (frutos rojos)": {
+  "mercadona": "Mix frutos rojos Hacendado ultracongeladas",
+  "seccion": "Congelados",
+  "categoria": "Fruta",
+  "foto": "https://prod-mercadona.imgix.net/images/9226d0c69488fd575c374293d5538ad6.jpg?fit=crop&h=300&w=300",
+  "score": 0.85,
+  "revisar": false,
+  "manual": false
+ },
+ "Agua mineral (garrafa)": {
+  "mercadona": "Agua mineral grande Bronchales",
+  "seccion": "Agua y refrescos",
+  "categoria": "Agua sin gas",
+  "foto": "https://prod-mercadona.imgix.net/images/66cc0d02f8e7c1ae6820ce725f05e80d.jpg?fit=crop&h=300&w=300",
+  "score": 0.96,
+  "revisar": false,
+  "manual": false
+ },
+ "Agua mineral (botella)": {
+  "mercadona": "Agua mineral grande Bronchales",
+  "seccion": "Agua y refrescos",
+  "categoria": "Agua sin gas",
+  "foto": "https://prod-mercadona.imgix.net/images/66cc0d02f8e7c1ae6820ce725f05e80d.jpg?fit=crop&h=300&w=300",
+  "score": 0.96,
+  "revisar": false,
+  "manual": false
+ },
+ "Agua con gas": {
+  "mercadona": "Agua mineral con gas grande Cortes",
+  "seccion": "Agua y refrescos",
+  "categoria": "Agua con gas",
+  "foto": "https://prod-mercadona.imgix.net/images/fa7dcf7dc5c26c68c38732434a265307.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Agua con sabor": {
+  "mercadona": "Agua de coco 100% Hacendado",
+  "seccion": "Agua y refrescos",
+  "categoria": "Otros refrescos sin gas",
+  "foto": "https://prod-mercadona.imgix.net/images/c36335b1c5009321b8c4c017d7b0ee47.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Coca-Cola": {
+  "mercadona": "Refresco Coca-Cola",
+  "seccion": "Agua y refrescos",
+  "categoria": "Cola clásica",
+  "foto": "https://prod-mercadona.imgix.net/images/25d2a48fbe8c52a3b3640284f5556924.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Coca-Cola Zero": {
+  "mercadona": "Refresco Coca-Cola zero azúcar",
+  "seccion": "Agua y refrescos",
+  "categoria": "Cola zero",
+  "foto": "https://prod-mercadona.imgix.net/images/2ddc55dcc0894b32a22ba70dcc38583b.jpg?fit=crop&h=300&w=300",
+  "score": 1.2,
+  "revisar": false,
+  "manual": false
+ },
+ "Fanta naranja": {
+  "mercadona": "Refresco Fanta naranja",
+  "seccion": "Agua y refrescos",
+  "categoria": "Naranja",
+  "foto": "https://prod-mercadona.imgix.net/images/d2733f2ee33bc99ee13c02b15cbef584.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Fanta limón": {
+  "mercadona": "Refresco Fanta limón",
+  "seccion": "Agua y refrescos",
+  "categoria": "Limón",
+  "foto": "https://prod-mercadona.imgix.net/images/389727daa0890efcf208edc2f8f9b855.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Sprite / lima-limón": {
+  "mercadona": "Refresco lima limón Sprite",
+  "seccion": "Agua y refrescos",
+  "categoria": "Lima limón",
+  "foto": "https://prod-mercadona.imgix.net/images/3b314a20e8fee020f4bc01819039891f.jpg?fit=crop&h=300&w=300",
+  "score": 1.264,
+  "revisar": false,
+  "manual": false
+ },
+ "Casera / gaseosa": {
+  "mercadona": "Gaseosa grande Hacendado",
+  "seccion": "Agua y refrescos",
+  "categoria": "Gaseosa",
+  "foto": "https://prod-mercadona.imgix.net/images/24c4eeaae78fda9ffb5b645c2b7a86db.jpg?fit=crop&h=300&w=300",
+  "score": 0.85,
+  "revisar": false,
+  "manual": false
+ },
+ "Tónica": {
+  "mercadona": "Tónica Hacendado",
+  "seccion": "Agua y refrescos",
+  "categoria": "Tónica y bitter",
+  "foto": "https://prod-mercadona.imgix.net/images/1f275037122572cc643acebcd08ce9ee.jpg?fit=crop&h=300&w=300",
+  "score": 1.35,
+  "revisar": false,
+  "manual": false
+ },
+ "Bitter": {
+  "mercadona": "Bitter Campari",
+  "seccion": "Bodega",
+  "categoria": "Vermouth y aperitivos",
+  "foto": "https://prod-mercadona.imgix.net/images/95ddaf5db3a7eb56444232859f2029b9.jpg?fit=crop&h=300&w=300",
+  "score": 1.138,
+  "revisar": false,
+  "manual": false
+ },
+ "Mosto": {
+  "mercadona": "Mosto tinto Casón Histórico",
+  "seccion": "Bodega",
+  "categoria": "Vinos dulces y mosto",
+  "foto": "https://prod-mercadona.imgix.net/images/97ec1377c633e9d065945a69bb4186c7.jpeg?fit=crop&h=300&w=300",
+  "score": 0.978,
+  "revisar": false,
+  "manual": false
+ },
+ "Té helado (Nestea)": {
+  "mercadona": "Refresco té sabor limón Hacendado",
+  "seccion": "Agua y refrescos",
+  "categoria": "Té",
+  "foto": "https://prod-mercadona.imgix.net/images/e19e213669f0982f1d8c621f214660a8.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Isodrink / Aquarius": {
+  "mercadona": "Bebida isotónica limón Aquarius",
+  "seccion": "Agua y refrescos",
+  "categoria": "Isotónico",
+  "foto": "https://prod-mercadona.imgix.net/images/b3a60e4a380e52ad26448271dfbf9777.jpg?fit=crop&h=300&w=300",
+  "score": 0.75,
+  "revisar": false,
+  "manual": false
+ },
+ "Bebida energética": {
+  "mercadona": "Bebida energética Monster Energy",
+  "seccion": "Agua y refrescos",
+  "categoria": "Energético",
+  "foto": "https://prod-mercadona.imgix.net/images/bac5a9b6212f8ab25484f13fc808652e.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Zumo de naranja": {
+  "mercadona": "Zumo de naranja Hacendado",
+  "seccion": "Zumos",
+  "categoria": "Naranja",
+  "foto": "https://prod-mercadona.imgix.net/images/06fa169ee8d4ab22018e6101e4f3aba5.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Zumo de piña": {
+  "mercadona": "Zumo de piña Hacendado",
+  "seccion": "Zumos",
+  "categoria": "Piña",
+  "foto": "https://prod-mercadona.imgix.net/images/6c7aa9b054839aab255d1547ca3f0f3f.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Zumo de manzana": {
+  "mercadona": "Zumo de manzana Hacendado",
+  "seccion": "Zumos",
+  "categoria": "Otros sabores",
+  "foto": "https://prod-mercadona.imgix.net/images/76d998fbd9e8ebdd2c8f563908b4ed6d.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Zumo multivitaminas": {
+  "mercadona": "Zumo tropical Hacendado",
+  "seccion": "Zumos",
+  "categoria": "Fruta variada y otros sabores",
+  "foto": "https://prod-mercadona.imgix.net/images/201f221469e606c69970bf25ef2a8764.jpg?fit=crop&h=300&w=300",
+  "score": 0.825,
+  "revisar": false,
+  "manual": false
+ },
+ "Zumo de melocotón": {
+  "mercadona": "Zumo de melocotón y uva Hacendado",
+  "seccion": "Zumos",
+  "categoria": "Melocotón",
+  "foto": "https://prod-mercadona.imgix.net/images/66dc19715816816baec5fbf963bee7fa.jpg?fit=crop&h=300&w=300",
+  "score": 1.205,
+  "revisar": false,
+  "manual": false
+ },
+ "Néctar de melocotón": {
+  "mercadona": "Zumo de melocotón y uva Hacendado",
+  "seccion": "Zumos",
+  "categoria": "Melocotón",
+  "foto": "https://prod-mercadona.imgix.net/images/66dc19715816816baec5fbf963bee7fa.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Zumo de tomate": {
+  "mercadona": "Zumo de tomate Hacendado",
+  "seccion": "Zumos",
+  "categoria": "Otros sabores",
+  "foto": "https://prod-mercadona.imgix.net/images/41b7d0f0d220d1e6e7a30bae3399fbbb.jpg?fit=crop&h=300&w=300",
+  "score": 1.325,
+  "revisar": false,
+  "manual": false
+ },
+ "Cerveza rubia": {
+  "mercadona": "Cerveza Heineken",
+  "seccion": "Bodega",
+  "categoria": "Cerveza lata",
+  "foto": "https://prod-mercadona.imgix.net/images/ac9beb775783dc374e1eb6c07c5d2887.jpg?fit=crop&h=300&w=300",
+  "score": 0.838,
+  "revisar": false,
+  "manual": false
+ },
+ "Cerveza con limón": {
+  "mercadona": "Cerveza Shandy Steinburg sabor limón",
+  "seccion": "Bodega",
+  "categoria": "Combinado de cerveza",
+  "foto": "https://prod-mercadona.imgix.net/images/4a7e98cfb9de7424b7c74bd549577096.jpg?fit=crop&h=300&w=300",
+  "score": 1.08,
+  "revisar": false,
+  "manual": false
+ },
+ "Cerveza 0,0": {
+  "mercadona": "Cerveza 0,0% sin alcohol Falke",
+  "seccion": "Bodega",
+  "categoria": "Cerveza botella y botellín",
+  "foto": "https://prod-mercadona.imgix.net/images/ee642aace6054597c81c96960be694b8.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cerveza (pack tercios)": {
+  "mercadona": "Cerveza Heineken",
+  "seccion": "Bodega",
+  "categoria": "Cerveza lata",
+  "foto": "https://prod-mercadona.imgix.net/images/ac9beb775783dc374e1eb6c07c5d2887.jpg?fit=crop&h=300&w=300",
+  "score": 0.711,
+  "revisar": false,
+  "manual": false
+ },
+ "Vino tinto": {
+  "mercadona": "Vino tinto Casón Histórico",
+  "seccion": "Bodega",
+  "categoria": "Vino tinto de mesa",
+  "foto": "https://prod-mercadona.imgix.net/images/56eed41e72e962baa1281e437e9b6ea8.jpg?fit=crop&h=300&w=300",
+  "score": 1.138,
+  "revisar": false,
+  "manual": false
+ },
+ "Vino blanco": {
+  "mercadona": "Vino blanco Casón Histórico",
+  "seccion": "Bodega",
+  "categoria": "Vino blanco de mesa",
+  "foto": "https://prod-mercadona.imgix.net/images/cba9111659578a10cba501895fc1280a.jpg?fit=crop&h=300&w=300",
+  "score": 1.138,
+  "revisar": false,
+  "manual": false
+ },
+ "Vino rosado": {
+  "mercadona": "Vino rosado Dominio de Borgia",
+  "seccion": "Bodega",
+  "categoria": "Vino rosado",
+  "foto": "https://prod-mercadona.imgix.net/images/b601a30f51db85458c981667c27a8e5c.jpg?fit=crop&h=300&w=300",
+  "score": 1.138,
+  "revisar": false,
+  "manual": false
+ },
+ "Cava / champán": {
+  "mercadona": "Cava brut Cabré & Sabaté",
+  "seccion": "Bodega",
+  "categoria": "Cava brut",
+  "foto": "https://prod-mercadona.imgix.net/images/a4e1be2460cdf0d3086f4f3ed88877fb.jpg?fit=crop&h=300&w=300",
+  "score": 0.738,
+  "revisar": false,
+  "manual": false
+ },
+ "Sangría": {
+  "mercadona": "Sangría Don Simón",
+  "seccion": "Bodega",
+  "categoria": "Tinto de verano y sangría",
+  "foto": "https://prod-mercadona.imgix.net/images/1ecc2ee081cebd66ba19b6ec4d367957.jpg?fit=crop&h=300&w=300",
+  "score": 1.038,
+  "revisar": false,
+  "manual": false
+ },
+ "Ron": {
+  "mercadona": "Ron añejo Negrita",
+  "seccion": "Bodega",
+  "categoria": "Ron",
+  "foto": "https://prod-mercadona.imgix.net/images/dd07995843d32e9e7b3e37509f868c8f.jpg?fit=crop&h=300&w=300",
+  "score": 1.038,
+  "revisar": false,
+  "manual": false
+ },
+ "Whisky": {
+  "mercadona": "Whisky escocés Cutty Sark",
+  "seccion": "Bodega",
+  "categoria": "Whisky",
+  "foto": "https://prod-mercadona.imgix.net/images/ee1b99384f401ba55b8a3453640571a7.jpg?fit=crop&h=300&w=300",
+  "score": 0.978,
+  "revisar": false,
+  "manual": false
+ },
+ "Ginebra": {
+  "mercadona": "Ginebra London Dry Gin Glivery",
+  "seccion": "Bodega",
+  "categoria": "Ginebra",
+  "foto": "https://prod-mercadona.imgix.net/images/8012145952783eef032e48cb00681638.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Vodka": {
+  "mercadona": "Vodka Knebep",
+  "seccion": "Bodega",
+  "categoria": "Vodka",
+  "foto": "https://prod-mercadona.imgix.net/images/72b7a2d0d05a532e58d025118556ebbd.jpg?fit=crop&h=300&w=300",
+  "score": 1.138,
+  "revisar": false,
+  "manual": false
+ },
+ "Licor de hierbas": {
+  "mercadona": "Licor de hierbas Jägermeister",
+  "seccion": "Bodega",
+  "categoria": "Otros licores",
+  "foto": "https://prod-mercadona.imgix.net/images/3489f24b647bc6715f2fb10cf8ab4dd7.jpg?fit=crop&h=300&w=300",
+  "score": 1.218,
+  "revisar": false,
+  "manual": false
+ },
+ "Brandy": {
+  "mercadona": "Brandy de Jerez solera reserva Convidado de Baco",
+  "seccion": "Bodega",
+  "categoria": "Brandy",
+  "foto": "https://prod-mercadona.imgix.net/images/d2d640eae5ddb20710cbd569d4af3560.jpg?fit=crop&h=300&w=300",
+  "score": 0.909,
+  "revisar": false,
+  "manual": false
+ },
+ "Detergente líquido (ropa)": {
+  "mercadona": "Detergente ropa Ariel líquido",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Detergente líquido y gel",
+  "foto": "https://prod-mercadona.imgix.net/images/8f6b39034dbd905b7d32f54886cf1e16.jpeg?fit=crop&h=300&w=300",
+  "score": 1.264,
+  "revisar": false,
+  "manual": false
+ },
+ "Detergente en cápsulas": {
+  "mercadona": "Detergente ropa todo en 1 Ariel Pods en cápsulas",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Detergente en polvo y monodosis",
+  "foto": "https://prod-mercadona.imgix.net/images/ba919332f9144e6089d057b6c799e080.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Detergente en polvo": {
+  "mercadona": "Detergente ropa blanca y de color Bosque Verde en polvo",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Detergente en polvo y monodosis",
+  "foto": "https://prod-mercadona.imgix.net/images/c75203fbc5e74f0715cf4be74bf8707e.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Suavizante": {
+  "mercadona": "Suavizante ropa Azul Bosque Verde concentrado",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Suavizante",
+  "foto": "https://prod-mercadona.imgix.net/images/c6cefe893cf7c03186e186e249fcb4b0.jpg?fit=crop&h=300&w=300",
+  "score": 0.921,
+  "revisar": false,
+  "manual": false
+ },
+ "Quitamanchas": {
+  "mercadona": "Jabón blando 100% natural Beltrán quitamanchas",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Quitamanchas",
+  "foto": "https://prod-mercadona.imgix.net/images/97c7d48aba7d278b20c1c76e7c31d8dc.jpg?fit=crop&h=300&w=300",
+  "score": 0.95,
+  "revisar": false,
+  "manual": false
+ },
+ "Lejía": {
+  "mercadona": "Lejía Multiusos Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Lejía",
+  "foto": "https://prod-mercadona.imgix.net/images/f3a793d010763b0e947c597b091435fd.jpg?fit=crop&h=300&w=300",
+  "score": 0.99,
+  "revisar": false,
+  "manual": false
+ },
+ "Blanco / blanqueante": {
+  "mercadona": "Activador Blanqueante ropa blanca Oxi Active Bosque Verde en polvo",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Activador y antical lavadora",
+  "foto": "https://prod-mercadona.imgix.net/images/9beeaafc75d836d9621d939ebf93a97e.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Limpiador de lavadora": {
+  "mercadona": "Limpia lavadoras Bosque Verde líquido",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Activador y antical lavadora",
+  "foto": "https://prod-mercadona.imgix.net/images/e2737bcf7ddb5930298c8471f7081a2d.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Toallitas quitamanchas": {
+  "mercadona": "Toallitas lavadora Bosque Verde anti-transferencia de color",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Quitamanchas",
+  "foto": "https://prod-mercadona.imgix.net/images/cac1a7c079067259c478c509671ceead.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Fregasuelos": {
+  "mercadona": "Friegasuelos Pino Bosque Verde líquido",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Friegasuelos",
+  "foto": "https://prod-mercadona.imgix.net/images/b946935fc274cc46ed201a950d600fbb.jpg?fit=crop&h=300&w=300",
+  "score": 0.95,
+  "revisar": false,
+  "manual": false
+ },
+ "Limpiacristales": {
+  "mercadona": "Limpiacristales Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpiacristales",
+  "foto": "https://prod-mercadona.imgix.net/images/264491ab4e191846cc9b4d17835a1420.jpeg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Limpiador multiusos": {
+  "mercadona": "Limpiahogar Multiusos Pino Bosque Verde líquido",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpiahogar",
+  "foto": "https://prod-mercadona.imgix.net/images/0a6cafc1cbcfa676294eccda6a5b5556.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Limpiador de baño": {
+  "mercadona": "Limpiador Baños Bosque Verde en gel",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpieza baño y WC",
+  "foto": "https://prod-mercadona.imgix.net/images/ecfacf82afdc8dfaadfccdce8af2ca06.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Desengrasante de cocina": {
+  "mercadona": "Multiusos cocina Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpieza cocina",
+  "foto": "https://prod-mercadona.imgix.net/images/701fd31002cbccb6da98047bb26c5ef6.jpeg?fit=crop&h=300&w=300",
+  "score": 0.75,
+  "revisar": false,
+  "manual": false
+ },
+ "Limpiador de WC": {
+  "mercadona": "Limpiador WC con lejía Bosque Verde en gel",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpieza baño y WC",
+  "foto": "https://prod-mercadona.imgix.net/images/1b142bc3421384906c340bee5e2a9b98.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Antical": {
+  "mercadona": "Limpiador Antical Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpieza baño y WC",
+  "foto": "https://prod-mercadona.imgix.net/images/f1ba013ab716d422f261ef7c9982ffbf.jpg?fit=crop&h=300&w=300",
+  "score": 0.99,
+  "revisar": false,
+  "manual": false
+ },
+ "Limpiador de madera": {
+  "mercadona": "Limpiador Muebles jabonoso para Madera Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpieza muebles",
+  "foto": "https://prod-mercadona.imgix.net/images/553db438c5a7a254a6ba373164339eba.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Amoniaco": {
+  "mercadona": "Amoníaco perfumado Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Amoníaco y salfumán",
+  "foto": "https://prod-mercadona.imgix.net/images/cd307d95ae845266f3886e0046918e04.jpeg?fit=crop&h=300&w=300",
+  "score": 0.99,
+  "revisar": false,
+  "manual": false
+ },
+ "Limpiador de horno": {
+  "mercadona": "Limpiador de Hornos Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpieza cocina",
+  "foto": "https://prod-mercadona.imgix.net/images/42293eab86a10cf7a6f468e4a2f4b6ec.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Limpiador de vitrocerámica": {
+  "mercadona": "Limpiador Vitrocerámicas Bosque Verde 3 en 1",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpieza cocina",
+  "foto": "https://prod-mercadona.imgix.net/images/3c713ff77bf63de895463d7ab8c9f9d7.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Ambientador de suelos": {
+  "mercadona": "Ambientador spray Essence Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Ambientador spray",
+  "foto": "https://prod-mercadona.imgix.net/images/c54c90dec6179790e8fafbc1f96b2735.jpg?fit=crop&h=300&w=300",
+  "score": 0.75,
+  "revisar": false,
+  "manual": false
+ },
+ "Lavavajillas a mano": {
+  "mercadona": "Lavavajillas a mano Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpiavajilla a mano",
+  "foto": "https://prod-mercadona.imgix.net/images/3e62ec30bdde1f0ec0cb84da981affcd.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Lavavajillas (cápsulas)": {
+  "mercadona": "Lavavajillas Todo en 1 Fairy en cápsulas",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpiavajilla a máquina",
+  "foto": "https://prod-mercadona.imgix.net/images/6b3845ba8d85e258c837c5179df9f7f9.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Lavavajillas (polvo)": {
+  "mercadona": "Lavavajillas Todo en 1 Bosque Verde en pastillas",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpiavajilla a máquina",
+  "foto": "https://prod-mercadona.imgix.net/images/89edc27400d512e8214cd9c731f59f44.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Sal para lavavajillas": {
+  "mercadona": "Sal lavavajillas Bosque Verde en grano",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpiavajilla a máquina",
+  "foto": "https://prod-mercadona.imgix.net/images/2561ed0e8a1ddc85955b781f5b1299b0.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Abrillantador": {
+  "mercadona": "Abrillantador lavavajillas líquido Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Limpiavajilla a máquina",
+  "foto": "https://prod-mercadona.imgix.net/images/9c10405749ae413a437d070e4d50569e.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Estropajo": {
+  "mercadona": "Estropajo baño Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Estropajo",
+  "foto": "https://prod-mercadona.imgix.net/images/43406699bfc534dbc5cc0cb5bf395010.jpg?fit=crop&h=300&w=300",
+  "score": 0.99,
+  "revisar": false,
+  "manual": false
+ },
+ "Bayeta / paño de microfibra": {
+  "mercadona": "Bayeta grande Bosque Verde microfibra",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Bayeta",
+  "foto": "https://prod-mercadona.imgix.net/images/6a9739006e032106505b8346f57f8df2.jpg?fit=crop&h=300&w=300",
+  "score": 0.917,
+  "revisar": false,
+  "manual": false
+ },
+ "Fregona (y recambio)": {
+  "mercadona": "Fregona Microfibra Absorbente Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Fregonas, escobas y mopas",
+  "foto": "https://prod-mercadona.imgix.net/images/0193fc9cf60e3a8661fda34775409fce.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Guantes de limpieza": {
+  "mercadona": "Guantes de látex Bosque Verde talla mediana-grande",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Guantes",
+  "foto": "https://prod-mercadona.imgix.net/images/148fc521b7ec6256fd32245b909e58a8.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Papel higiénico": {
+  "mercadona": "Papel higiénico Suave Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel higiénico",
+  "foto": "https://prod-mercadona.imgix.net/images/c101fb054823f64dfbece29949dd8e23.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Papel de cocina": {
+  "mercadona": "Papel cocina Gigante Absorbente Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Rollo cocina",
+  "foto": "https://prod-mercadona.imgix.net/images/1754c20c79fab74549f3b7f5a05bfb80.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Servilletas": {
+  "mercadona": "Servilleta papel Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Servilletas",
+  "foto": "https://prod-mercadona.imgix.net/images/bfcc81e168ee5a8e58f26e2ba67dfb40.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Bolsas de basura": {
+  "mercadona": "Bolsas de basura 100L Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Bolsas de basura",
+  "foto": "https://prod-mercadona.imgix.net/images/99836920cf605964cb7d5cb684d93a4e.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Bolsas de basura grandes": {
+  "mercadona": "Bolsas de basura 100L Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Bolsas de basura",
+  "foto": "https://prod-mercadona.imgix.net/images/99836920cf605964cb7d5cb684d93a4e.jpg?fit=crop&h=300&w=300",
+  "score": 0.917,
+  "revisar": false,
+  "manual": false
+ },
+ "Film transparente": {
+  "mercadona": "Film transparente Bosque Verde con sierra deslizante",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel y bolsas de conservación",
+  "foto": "https://prod-mercadona.imgix.net/images/2edf6e6d627c5e1f86efa0519b06761c.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Papel de aluminio": {
+  "mercadona": "Papel de aluminio Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel y bolsas de conservación",
+  "foto": "https://prod-mercadona.imgix.net/images/efcf89445e5bc8d8962ca09286252e7e.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Papel de horno": {
+  "mercadona": "Papel vegetal Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel y bolsas de conservación",
+  "foto": "https://prod-mercadona.imgix.net/images/19374e8df56aed60327a8ffecb9c3b98.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Bolsitas de congelación": {
+  "mercadona": "Bolsas congelación medianas Bosque Verde reutilizables",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel y bolsas de conservación",
+  "foto": "https://prod-mercadona.imgix.net/images/56c79b29c15d59da2b018a6b06a18817.jpeg?fit=crop&h=300&w=300",
+  "score": 0.7,
+  "revisar": false,
+  "manual": false
+ },
+ "Bolsas herméticas": {
+  "mercadona": "Bolsas zip congelación medianas Bosque Verde reutilizables",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel y bolsas de conservación",
+  "foto": "https://prod-mercadona.imgix.net/images/831e513726a8229b86294e6417d83528.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Ambientador": {
+  "mercadona": "Ambientador spray Essence Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Ambientador spray",
+  "foto": "https://prod-mercadona.imgix.net/images/c54c90dec6179790e8fafbc1f96b2735.jpg?fit=crop&h=300&w=300",
+  "score": 0.99,
+  "revisar": false,
+  "manual": false
+ },
+ "Ambientador en spray": {
+  "mercadona": "Ambientador spray Essence Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Ambientador spray",
+  "foto": "https://prod-mercadona.imgix.net/images/c54c90dec6179790e8fafbc1f96b2735.jpg?fit=crop&h=300&w=300",
+  "score": 0.75,
+  "revisar": false,
+  "manual": false
+ },
+ "Difusor de ambiente": {
+  "mercadona": "Difusor ambientador eléctrico Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Ambientador eléctrico",
+  "foto": "https://prod-mercadona.imgix.net/images/a6357b2fb566aefcd2685bf508c36c38.jpg?fit=crop&h=300&w=300",
+  "score": 0.721,
+  "revisar": false,
+  "manual": false
+ },
+ "Velas": {
+  "mercadona": "Vela perfumada Amber Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Ambientador decorativo y otros",
+  "foto": "https://prod-mercadona.imgix.net/images/2c0b4bbb2d40559e6b10c07a6019123b.jpg?fit=crop&h=300&w=300",
+  "score": 0.95,
+  "revisar": false,
+  "manual": false
+ },
+ "Bicarbonato": {
+  "mercadona": "Bicarbonato de sódio Hacendado",
+  "seccion": "Aceite, especias y salsas",
+  "categoria": "Sal y bicarbonato",
+  "foto": "https://prod-mercadona.imgix.net/images/5ae57e0348cf657e21ffa47ad36ea448.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Bombillas": {
+  "mercadona": "Pila alcalina AA LR6 Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Pilas",
+  "foto": "https://prod-mercadona.imgix.net/images/427f1283d4f889eafb560f96b695fcab.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pilas": {
+  "mercadona": "Pila alcalina AA LR6 Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Pilas",
+  "foto": "https://prod-mercadona.imgix.net/images/427f1283d4f889eafb560f96b695fcab.jpg?fit=crop&h=300&w=300",
+  "score": 0.921,
+  "revisar": false,
+  "manual": false
+ },
+ "Mechero / cerillas": {
+  "mercadona": "Mini mechero Clipper",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Encendedores, velas y carbón",
+  "foto": "https://prod-mercadona.imgix.net/images/2de97805b25dd712ad31a10294d678bb.jpeg?fit=crop&h=300&w=300",
+  "score": 0.79,
+  "revisar": false,
+  "manual": false
+ },
+ "Gel de ducha": {
+  "mercadona": "Gel de baño frescor azul Deliplus piel normal",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Gel",
+  "foto": "https://prod-mercadona.imgix.net/images/3bf6e644dd7fcc49bf2150ad403f0c0a.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Jabón de manos": {
+  "mercadona": "Jabón de manos dermoprotector Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Jabón de manos",
+  "foto": "https://prod-mercadona.imgix.net/images/241e96387a289b582f4e38f4385fb944.jpg?fit=crop&h=300&w=300",
+  "score": 1.23,
+  "revisar": false,
+  "manual": false
+ },
+ "Jabón en pastilla": {
+  "mercadona": "Jabón de manos en pastilla glicerina 100% natural Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Jabón de manos",
+  "foto": "https://prod-mercadona.imgix.net/images/83901b66ca71b5e2a98e984db0e376ed.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Champú": {
+  "mercadona": "Champú Natural Deliplus todo tipo de cabello",
+  "seccion": "Cuidado del cabello",
+  "categoria": "Champú",
+  "foto": "https://prod-mercadona.imgix.net/images/90a97212275e5b40dfb483a8b9e9aa31.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Champú anticaspa": {
+  "mercadona": "Champú anticaspa Menthol Fresh H&S",
+  "seccion": "Cuidado del cabello",
+  "categoria": "Champú anticaspa",
+  "foto": "https://prod-mercadona.imgix.net/images/a2cb0247307c98014207661469cd34a0.jpg?fit=crop&h=300&w=300",
+  "score": 1.038,
+  "revisar": false,
+  "manual": false
+ },
+ "Acondicionador": {
+  "mercadona": "Acondicionador Suavidad y Brillo Deliplus todo tipo de cabello",
+  "seccion": "Cuidado del cabello",
+  "categoria": "Acondicionador",
+  "foto": "https://prod-mercadona.imgix.net/images/c7dec8b810ef41fbe1dad74f1488f0c4.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Mascarilla capilar": {
+  "mercadona": "Mascarilla Natural Deliplus todo tipo de cabello",
+  "seccion": "Cuidado del cabello",
+  "categoria": "Mascarilla",
+  "foto": "https://prod-mercadona.imgix.net/images/6a520c3d6c821b13129b6ffb7c233106.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pasta de dientes": {
+  "mercadona": "Dentífrico Triple Acción Colgate menta intensa",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Pasta de dientes",
+  "foto": "https://prod-mercadona.imgix.net/images/97535c0930b03860b5b9cbaebd7fb546.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cepillo de dientes": {
+  "mercadona": "Cepillo dental Medio Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Cepillo de dientes",
+  "foto": "https://prod-mercadona.imgix.net/images/a20cd0181c81361dce96d0c019c46b9a.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Enjuague bucal": {
+  "mercadona": "Enjuague bucal Total Action Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Colutorio e hilo dental",
+  "foto": "https://prod-mercadona.imgix.net/images/75e399a5b01823fb7ef6ef242f167034.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Hilo dental": {
+  "mercadona": "Hilo dental con cera y sabor menta",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Colutorio e hilo dental",
+  "foto": "https://prod-mercadona.imgix.net/images/c38415a768a418ddb8b72f89627ba5ef.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Desodorante roll-on": {
+  "mercadona": "Desodorante roll-on Aloe Deliplus antitranspirante",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Desodorante roll on y stick",
+  "foto": "https://prod-mercadona.imgix.net/images/b10cf9b5ac6ad981835f796e7dcc415b.jpg?fit=crop&h=300&w=300",
+  "score": 1.2,
+  "revisar": false,
+  "manual": false
+ },
+ "Desodorante spray": {
+  "mercadona": "Desodorante aloe Deliplus antitranspirante",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Desodorante Spray",
+  "foto": "https://prod-mercadona.imgix.net/images/97e333e12d272d404c1da27203e59a4f.jpeg?fit=crop&h=300&w=300",
+  "score": 0.79,
+  "revisar": false,
+  "manual": false
+ },
+ "Colonia / perfume": {
+  "mercadona": "Agua de colonia Classic fresh S3",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Perfume y colonia mujer",
+  "foto": "https://prod-mercadona.imgix.net/images/92b5b89f5ae5276905d53beec7f4febd.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "After-shave": {
+  "mercadona": "Loción after shave Fresh Deliplus con alcohol",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "After shave",
+  "foto": "https://prod-mercadona.imgix.net/images/e95b8b62cbc5dbcd2bdcf578c472c183.jpeg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Espuma de afeitar": {
+  "mercadona": "Espuma de afeitar Sensitive Deliplus manteca de cacao",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Espuma de afeitar",
+  "foto": "https://prod-mercadona.imgix.net/images/75ec8ba19f4b81fd470dfb084ddbed17.jpeg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Cuchillas de afeitar": {
+  "mercadona": "Maquinillas de afeitar desechables Deliplus Fix 2 hojas",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Maquinillas de afeitar",
+  "foto": "https://prod-mercadona.imgix.net/images/d6242f7fd0c5e58c7dd1b257bceedc05.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Maquinilla de afeitar": {
+  "mercadona": "Maquinillas de afeitar desechables Deliplus Fix 2 hojas",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Maquinillas de afeitar",
+  "foto": "https://prod-mercadona.imgix.net/images/d6242f7fd0c5e58c7dd1b257bceedc05.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Crema de afeitar": {
+  "mercadona": "Espuma de afeitar Sensitive Deliplus manteca de cacao",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Espuma de afeitar",
+  "foto": "https://prod-mercadona.imgix.net/images/75ec8ba19f4b81fd470dfb084ddbed17.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Crema hidratante": {
+  "mercadona": "Crema de manos, cara y cuerpo Nivea Soft hidratante intensiva",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Crema manos",
+  "foto": "https://prod-mercadona.imgix.net/images/a086654477e99eb9d9b5076f63366728.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Crema de manos": {
+  "mercadona": "Crema de manos intensiva Dove",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Crema manos",
+  "foto": "https://prod-mercadona.imgix.net/images/ea7959fc460b50fc702eb4da9e823aa3.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Crema facial": {
+  "mercadona": "Crema facial hidratante anti-rojeces Sensitive Vitamina K Ox",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Crema de cara",
+  "foto": "https://prod-mercadona.imgix.net/images/77b72113278cc8a8de2e95e350606d5d.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Protector solar": {
+  "mercadona": "Protector solar Sun Med FPS 50+",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Protector solar y aftersun",
+  "foto": "https://prod-mercadona.imgix.net/images/db5b748c1f0c62bcc7bdf01a90f2ef37.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "After-sun": {
+  "mercadona": "Loción after shave Fresh Deliplus con alcohol",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "After shave",
+  "foto": "https://prod-mercadona.imgix.net/images/e95b8b62cbc5dbcd2bdcf578c472c183.jpeg?fit=crop&h=300&w=300",
+  "score": 0.721,
+  "revisar": false,
+  "manual": false
+ },
+ "Vaselina": {
+  "mercadona": "Vaselina hidratante Deliplus",
+  "seccion": "Maquillaje",
+  "categoria": "Cuidado",
+  "foto": "https://prod-mercadona.imgix.net/images/0a2a01b1e05e143852ccd7680b41e8ea.jpg?fit=crop&h=300&w=300",
+  "score": 1.125,
+  "revisar": false,
+  "manual": false
+ },
+ "Crema para pies": {
+  "mercadona": "Crema para pies 10% urea pura Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Crema pies",
+  "foto": "https://prod-mercadona.imgix.net/images/77c2193ad5439083e68dd11c363ca3be.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Aceite corporal": {
+  "mercadona": "Aceite corporal aloe vera Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Aceite corporal",
+  "foto": "https://prod-mercadona.imgix.net/images/76a23c276b7c9273382d278ac4fab212.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Discos desmaquillantes": {
+  "mercadona": "Discos desmaquillantes Deliplus redondos algodón 100%",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Limpieza de cara",
+  "foto": "https://prod-mercadona.imgix.net/images/c689ec4c122804754dcfa35b153b1362.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Bastoncillos": {
+  "mercadona": "Bastoncillos algodón para bebés Deliplus",
+  "seccion": "Bebé",
+  "categoria": "Accesorios",
+  "foto": "https://prod-mercadona.imgix.net/images/14c6f53b241eabd431dffae364f87e51.jpg?fit=crop&h=300&w=300",
+  "score": 0.7,
+  "revisar": false,
+  "manual": false
+ },
+ "Algodón": {
+  "mercadona": "Algodón hidrófilo 100% zig-zag hipoalergénico Deliplus",
+  "seccion": "Fitoterapia y parafarmacia",
+  "categoria": "Botiquín",
+  "foto": "https://prod-mercadona.imgix.net/images/7c912d34825b258b4db81cea111b1a97.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pañuelos de papel": {
+  "mercadona": "Pañuelos de papel Extra Suaves Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Pañuelos",
+  "foto": "https://prod-mercadona.imgix.net/images/ee570e175d6894f08bb89c0c35c2e6ee.jpg?fit=crop&h=300&w=300",
+  "score": 0.743,
+  "revisar": false,
+  "manual": false
+ },
+ "Toallitas húmedas": {
+  "mercadona": "Toallitas Dermo higiene corporal Deliplus tamaño gigantes",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Toallitas",
+  "foto": "https://prod-mercadona.imgix.net/images/fc04ecfb53badda995548b003b341c69.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Compresas": {
+  "mercadona": "Compresa normal Deliplus con alas",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Compresas",
+  "foto": "https://prod-mercadona.imgix.net/images/12681432666399f22109d95f5c9bbadf.jpg?fit=crop&h=300&w=300",
+  "score": 1.05,
+  "revisar": false,
+  "manual": false
+ },
+ "Tampones": {
+  "mercadona": "Tampones mini Deliplus con aplicador suave",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Tampones",
+  "foto": "https://prod-mercadona.imgix.net/images/f635a6cc44c3a34202f0aff9352a2281.jpg?fit=crop&h=300&w=300",
+  "score": 0.99,
+  "revisar": false,
+  "manual": false
+ },
+ "Salvaslip": {
+  "mercadona": "Protegeslip suave 2 en 1 Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Protegeslips",
+  "foto": "https://prod-mercadona.imgix.net/images/8e1d58845d011213c24cdabc52a9a4cc.jpg?fit=crop&h=300&w=300",
+  "score": 1.15,
+  "revisar": false,
+  "manual": false
+ },
+ "Peine / cepillo": {
+  "mercadona": null,
+  "seccion": null,
+  "categoria": null,
+  "foto": null,
+  "score": 0.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Gomas de pelo": {
+  "mercadona": null,
+  "seccion": null,
+  "categoria": null,
+  "foto": null,
+  "score": 0.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Horquillas": {
+  "mercadona": "Pinza de cejas Deliplus oblicua",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Bandas, cera y crema",
+  "foto": "https://prod-mercadona.imgix.net/images/d6572269d5b8a8ffdc88454f685be7c4.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Tinte de pelo": {
+  "mercadona": "Tinte cabello hombre 0% amoníaco 3 moreno 4 castaño Colorcor",
+  "seccion": "Cuidado del cabello",
+  "categoria": "Coloración hombre",
+  "foto": "https://prod-mercadona.imgix.net/images/d2986be569802c53005848b55233ff6d.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Laca de pelo": {
+  "mercadona": "Laca cabello Forte Deliplus fijación 3",
+  "seccion": "Cuidado del cabello",
+  "categoria": "Espuma y laca",
+  "foto": "https://prod-mercadona.imgix.net/images/69206f7ae9b5b5e6706fc4b1c42de143.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Espuma / gel de pelo": {
+  "mercadona": "Espuma cabello Xtra Forte Deliplus fijación 4",
+  "seccion": "Cuidado del cabello",
+  "categoria": "Espuma y laca",
+  "foto": "https://prod-mercadona.imgix.net/images/c847f94da8673900542804758648ed15.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Crema depilatoria": {
+  "mercadona": "Crema depilatoria hombre Deliplus piel normal",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Bandas, cera y crema",
+  "foto": "https://prod-mercadona.imgix.net/images/bd9b6bace670f36d25e397365f2ba2c4.jpg?fit=crop&h=300&w=300",
+  "score": 1.093,
+  "revisar": false,
+  "manual": false
+ },
+ "Cera depilatoria": {
+  "mercadona": "Cera caliente en tarro Deliplus piel sensible",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Bandas, cera y crema",
+  "foto": "https://prod-mercadona.imgix.net/images/7434d1063b0126e0a0354ad551145c66.jpg?fit=crop&h=300&w=300",
+  "score": 0.75,
+  "revisar": false,
+  "manual": false
+ },
+ "Platos": {
+  "mercadona": "Plato llano Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/99dbfe5a16bb7d22b03cafce33389f11.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Vasos": {
+  "mercadona": "Vasos grandes de plástico Bosque Verde reutilizables",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/2e160ea1eb91c926dfdef9b5142379c9.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cubiertos": {
+  "mercadona": "Tenedores de plástico Bosque Verde reutilizables",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/20ed85f5f043b509687ab4752fbc68d8.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Tazas": {
+  "mercadona": "Vaso mediano Bosque Verde apto para bebida caliente",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/36a92299e9aa991f9488417d5dcb8771.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Ollas": {
+  "mercadona": "Molde de aluminio cuadrado 2,7L Alibérico",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Herméticos y moldes",
+  "foto": "https://prod-mercadona.imgix.net/images/5f0e4a9bc62d2f73ce377f3399895d79.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Sartén": {
+  "mercadona": "Molde de aluminio rectangular 1,5L Alibérico",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Herméticos y moldes",
+  "foto": "https://prod-mercadona.imgix.net/images/4d833b447f94ee204e27adce79bd5918.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cacerola": {
+  "mercadona": "Molde de aluminio rectangular 0,5L Alibérico",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Herméticos y moldes",
+  "foto": "https://prod-mercadona.imgix.net/images/925e954f147073a63c7057a955f9c5d4.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Bandeja": {
+  "mercadona": "Bandeja de cartón rectangular Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/ab1f65605ca476e7975ca7b2ca613c58.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Ensaladera": {
+  "mercadona": "Recipiente de plástico redondo 1L Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Herméticos y moldes",
+  "foto": "https://prod-mercadona.imgix.net/images/c443b6c5634cb0997a1f8936b7b243be.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Tabla de cortar": {
+  "mercadona": "Tabla de quesos nacionales Hacendado",
+  "seccion": "Charcutería y quesos",
+  "categoria": "Queso curado",
+  "foto": "https://prod-mercadona.imgix.net/images/fd4abf9a02e72ce2a636dc02c1086d80.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Colador": {
+  "mercadona": "Escurridor para cubo ovalado Bosque Verde escurrebien",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubos y barreños",
+  "foto": "https://prod-mercadona.imgix.net/images/ff02b286dd88b03e85ddfca541f8b0da.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Espátula / cuchara de cocina": {
+  "mercadona": "Cucharas de plástico Bosque Verde reutilizables",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/eb5fd74a96cff2c66236e5a697a8434e.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cuchillo de cocina": {
+  "mercadona": "Cuchillos de plástico Bosque Verde reutilizables",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/a419d3cb4a078d3362483e018b7ddb42.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Táper / recipiente para guardar": {
+  "mercadona": "Recipiente hermético de plástico rectangular 1L Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Herméticos y moldes",
+  "foto": "https://prod-mercadona.imgix.net/images/1524ba01bd1fce632f1e823fb4f3b2dc.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Toallas": {
+  "mercadona": "Toalla turbante seca pelo microfibra Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Esponjas",
+  "foto": "https://prod-mercadona.imgix.net/images/6131dfdf360c1d86ce8f287e4f1b2a28.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Trapos de cocina": {
+  "mercadona": "Paño seca vajillas Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Bayeta",
+  "foto": "https://prod-mercadona.imgix.net/images/118d930a7fb8f86ef6cca438f600ff3a.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Sábanas": {
+  "mercadona": "Toalla turbante seca pelo microfibra Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Esponjas",
+  "foto": "https://prod-mercadona.imgix.net/images/6131dfdf360c1d86ce8f287e4f1b2a28.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Funda de almohada": {
+  "mercadona": "Toalla turbante seca pelo microfibra Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Esponjas",
+  "foto": "https://prod-mercadona.imgix.net/images/6131dfdf360c1d86ce8f287e4f1b2a28.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Mantas": {
+  "mercadona": "Toalla turbante seca pelo microfibra Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Esponjas",
+  "foto": "https://prod-mercadona.imgix.net/images/6131dfdf360c1d86ce8f287e4f1b2a28.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Escoba": {
+  "mercadona": "Escoba para interiores Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Fregonas, escobas y mopas",
+  "foto": "https://prod-mercadona.imgix.net/images/0ea0855d7a41639ba27c273a9c78705d.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Recogedor": {
+  "mercadona": "Recogedor antivuelco con palo Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Fregonas, escobas y mopas",
+  "foto": "https://prod-mercadona.imgix.net/images/0ab3e2ff9714c2aac646c4ac98fde3cd.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cubo": {
+  "mercadona": "Cubo de basura mediano 30L Bosque Verde 30,2 x 30,5 x 41,9 cm",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubos y barreños",
+  "foto": "https://prod-mercadona.imgix.net/images/bac585d1fe04658151ae56ac1c6f3216.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Perchas": {
+  "mercadona": "Pinzas de ropa Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Otros utensilios de limpieza",
+  "foto": "https://prod-mercadona.imgix.net/images/b208a7d252f854b33109e2087f8c8add.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Pinzas de la ropa": {
+  "mercadona": "Pinzas de ropa Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Otros utensilios de limpieza",
+  "foto": "https://prod-mercadona.imgix.net/images/b208a7d252f854b33109e2087f8c8add.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cuerda de tender": {
+  "mercadona": "Palo extensible antideslizante Bosque Verde 86 - 150 cm",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Fregonas, escobas y mopas",
+  "foto": "https://prod-mercadona.imgix.net/images/3ea500f093a680be7537c7f44085986d.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cinta adhesiva": {
+  "mercadona": "Film transparente Bosque Verde con sierra deslizante",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel y bolsas de conservación",
+  "foto": "https://prod-mercadona.imgix.net/images/2edf6e6d627c5e1f86efa0519b06761c.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Tijeras": {
+  "mercadona": "Tijera uñas Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Cuidado de uñas y complementos",
+  "foto": "https://prod-mercadona.imgix.net/images/80c0d64a42a71eade0e54694f764202d.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Costurero / hilo y aguja": {
+  "mercadona": "Tijera uñas Deliplus",
+  "seccion": "Cuidado facial y corporal",
+  "categoria": "Cuidado de uñas y complementos",
+  "foto": "https://prod-mercadona.imgix.net/images/80c0d64a42a71eade0e54694f764202d.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Platos desechables": {
+  "mercadona": "Plato postre Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/05709bf13818ab7f90de1c848d53743b.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Vasos desechables": {
+  "mercadona": "Vaso pequeño Bosque Verde apto para bebida caliente",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/4236813a2b75331346d4af878b2a9733.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Cubiertos desechables": {
+  "mercadona": "Cucharas de plástico Bosque Verde reutilizables",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/eb5fd74a96cff2c66236e5a697a8434e.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Mantel": {
+  "mercadona": "Mantel de papel blanco Bosque Verde",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Cubiertos, vajilla y mantel",
+  "foto": "https://prod-mercadona.imgix.net/images/6fe9211fd3f133a69b3d1fed766912a5.jpg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Bolsas de tela": {
+  "mercadona": "Bolsa de rafia",
+  "seccion": "Limpieza y hogar",
+  "categoria": "Papel y bolsas de conservación",
+  "foto": "https://prod-mercadona.imgix.net/images/2fb84bae8a06b513d5fe8918ec3e4fdc.jpeg?fit=crop&h=300&w=300",
+  "score": 1.0,
+  "revisar": false,
+  "manual": true
+ },
+ "Paraguas": {
+  "mercadona": null,
+  "seccion": null,
+  "categoria": null,
+  "foto": null,
+  "score": 0.0,
+  "revisar": false,
+  "manual": true
+ }
+}

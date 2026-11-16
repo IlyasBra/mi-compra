@@ -1,0 +1,23 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+
+  // Agente principal por defecto para proyectos nuevos.
+  // Alternativa probada: "opencode/big-pickle".
+  "model": "opencode/iceman-free",
+
+  "agents": {
+    // Exploracion y busqueda en el codigo -> modelo Flash rapido.
+    "explore": {
+      "description": "Explora y busca en el codigo sin editar archivos",
+      "mode": "subagent",
+      "model": "opencode/deepseek-v4.1-flash-free#high",
+    },
+
+    // Investigacion y tareas multi-paso -> otro Flash como respaldo.
+    "general": {
+      "description": "Investigacion y trabajo multi-paso con acceso amplio",
+      "mode": "subagent",
+      "model": "opencode/glm-5.3-flash-free#high",
+    },
+  },
+}
